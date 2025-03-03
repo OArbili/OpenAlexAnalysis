@@ -48,6 +48,19 @@ For downloading data with additional author information:
 python download_with_writers.py
 ```
 
+### Running the Analysis
+
+You can run each part of the analysis using the following notebooks:
+
+1. **Field & Subfield Network Analysis**: 
+   - [Fields_SubFields_Analysis/Fields_SubFields_Grpah.ipynb](Fields_SubFields_Analysis/Fields_SubFields_Grpah.ipynb)
+
+2. **Author Collaboration Analysis**: 
+   - [Authors_Collaboration/writer_research.ipynb](Authors_Collaboration/writer_research.ipynb)
+
+3. **GNN Prediction Model**: 
+   - [GNN/src/run.ipynb](GNN/src/run.ipynb)
+
 ## Results
 
 ### Field & Subfield Cooperation Analysis
