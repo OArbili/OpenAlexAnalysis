@@ -1,0 +1,242 @@
+Id,Label,Count,Domain,Field
+Epidemiology,Epidemiology,3723,Health Sciences,Medicine
+Oncology,Oncology,3474,Health Sciences,Medicine
+Ecological Modeling,Ecological Modeling,240,Physical Sciences,Environmental Science
+Paleontology,Paleontology,223,Physical Sciences,Earth and Planetary Sciences
+Cognitive Neuroscience,Cognitive Neuroscience,1978,Life Sciences,Neuroscience
+Ecology,Ecology,1756,Physical Sciences,Environmental Science
+Water Science and Technology,Water Science and Technology,804,Physical Sciences,Environmental Science
+Computational Theory and Mathematics,Computational Theory and Mathematics,714,Physical Sciences,Computer Science
+Atmospheric Science,Atmospheric Science,1199,Physical Sciences,Earth and Planetary Sciences
+"Ecology, Evolution, Behavior and Systematics","Ecology, Evolution, Behavior and Systematics",758,Life Sciences,Agricultural and Biological Sciences
+Experimental and Cognitive Psychology,Experimental and Cognitive Psychology,790,Social Sciences,Psychology
+Language and Linguistics,Language and Linguistics,84,Social Sciences,Arts and Humanities
+Rheumatology,Rheumatology,730,Health Sciences,Medicine
+Surgery,Surgery,3402,Health Sciences,Medicine
+Discrete Mathematics and Combinatorics,Discrete Mathematics and Combinatorics,30,Physical Sciences,Mathematics
+Mathematical Physics,Mathematical Physics,156,Physical Sciences,Mathematics
+Immunology and Allergy,Immunology and Allergy,253,Health Sciences,Medicine
+Cancer Research,Cancer Research,1617,Life Sciences,"Biochemistry, Genetics and Molecular Biology"
+Molecular Biology,Molecular Biology,9907,Life Sciences,"Biochemistry, Genetics and Molecular Biology"
+Philosophy,Philosophy,108,Social Sciences,Arts and Humanities
+Education,Education,710,Social Sciences,Social Sciences
+Artificial Intelligence,Artificial Intelligence,3306,Physical Sciences,Computer Science
+Computer Vision and Pattern Recognition,Computer Vision and Pattern Recognition,1080,Physical Sciences,Computer Science
+"Radiology, Nuclear Medicine and Imaging","Radiology, Nuclear Medicine and Imaging",2193,Health Sciences,Medicine
+Biomedical Engineering,Biomedical Engineering,3877,Physical Sciences,Engineering
+"Health, Toxicology and Mutagenesis","Health, Toxicology and Mutagenesis",1377,Physical Sciences,Environmental Science
+Health,Health,608,Social Sciences,Social Sciences
+Plant Science,Plant Science,1779,Life Sciences,Agricultural and Biological Sciences
+Oceanography,Oceanography,524,Physical Sciences,Earth and Planetary Sciences
+Aquatic Science,Aquatic Science,115,Life Sciences,Agricultural and Biological Sciences
+Hepatology,Hepatology,500,Health Sciences,Medicine
+Health Informatics,Health Informatics,1028,Health Sciences,Medicine
+Anthropology,Anthropology,84,Social Sciences,Social Sciences
+Forestry,Forestry,38,Life Sciences,Agricultural and Biological Sciences
+Health Information Management,Health Information Management,232,Health Sciences,Health Professions
+"Public Health, Environmental and Occupational Health","Public Health, Environmental and Occupational Health",2661,Health Sciences,Medicine
+"Pediatrics, Perinatology and Child Health","Pediatrics, Perinatology and Child Health",1118,Health Sciences,Medicine
+General Agricultural and Biological Sciences,General Agricultural and Biological Sciences,106,Life Sciences,Agricultural and Biological Sciences
+Economics and Econometrics,Economics and Econometrics,1778,Social Sciences,"Economics, Econometrics and Finance"
+Statistics and Probability,Statistics and Probability,284,Physical Sciences,Mathematics
+Gender Studies,Gender Studies,411,Social Sciences,Social Sciences
+Electrical and Electronic Engineering,Electrical and Electronic Engineering,3636,Physical Sciences,Engineering
+Polymers and Plastics,Polymers and Plastics,739,Physical Sciences,Materials Science
+General Health Professions,General Health Professions,1579,Health Sciences,Health Professions
+Finance,Finance,411,Social Sciences,"Economics, Econometrics and Finance"
+Organizational Behavior and Human Resource Management,Organizational Behavior and Human Resource Management,308,Social Sciences,"Business, Management and Accounting"
+Neurology,Neurology,2171,Life Sciences,Neuroscience
+Nuclear and High Energy Physics,Nuclear and High Energy Physics,1165,Physical Sciences,Physics and Astronomy
+Nephrology,Nephrology,395,Health Sciences,Medicine
+"Endocrinology, Diabetes and Metabolism","Endocrinology, Diabetes and Metabolism",1238,Health Sciences,Medicine
+Nature and Landscape Conservation,Nature and Landscape Conservation,457,Physical Sciences,Environmental Science
+Global and Planetary Change,Global and Planetary Change,1826,Physical Sciences,Environmental Science
+Materials Chemistry,Materials Chemistry,3580,Physical Sciences,Materials Science
+Physiology,Physiology,2769,Health Sciences,Medicine
+Pulmonary and Respiratory Medicine,Pulmonary and Respiratory Medicine,2937,Health Sciences,Medicine
+Psychiatry and Mental health,Psychiatry and Mental health,1210,Health Sciences,Medicine
+Computer Networks and Communications,Computer Networks and Communications,622,Physical Sciences,Computer Science
+Management Science and Operations Research,Management Science and Operations Research,548,Social Sciences,Decision Sciences
+Geriatrics and Gerontology,Geriatrics and Gerontology,239,Health Sciences,Medicine
+Sociology and Political Science,Sociology and Political Science,2084,Social Sciences,Social Sciences
+Inorganic Chemistry,Inorganic Chemistry,570,Physical Sciences,Chemistry
+Food Science,Food Science,670,Life Sciences,Agricultural and Biological Sciences
+Biotechnology,Biotechnology,311,Life Sciences,"Biochemistry, Genetics and Molecular Biology"
+Statistical and Nonlinear Physics,Statistical and Nonlinear Physics,644,Physical Sciences,Physics and Astronomy
+Geometry and Topology,Geometry and Topology,177,Physical Sciences,Mathematics
+Law,Law,57,Social Sciences,Social Sciences
+Political Science and International Relations,Political Science and International Relations,432,Social Sciences,Social Sciences
+"Management, Monitoring, Policy and Law","Management, Monitoring, Policy and Law",414,Physical Sciences,Environmental Science
+Microbiology,Microbiology,233,Life Sciences,Immunology and Microbiology
+Cell Biology,Cell Biology,1042,Life Sciences,"Biochemistry, Genetics and Molecular Biology"
+Dermatology,Dermatology,381,Health Sciences,Medicine
+Immunology,Immunology,2533,Life Sciences,Immunology and Microbiology
+Emergency Medicine,Emergency Medicine,545,Health Sciences,Medicine
+Cultural Studies,Cultural Studies,79,Social Sciences,Social Sciences
+Visual Arts and Performing Arts,Visual Arts and Performing Arts,18,Social Sciences,Arts and Humanities
+Conservation,Conservation,24,Social Sciences,Arts and Humanities
+Architecture,Architecture,136,Physical Sciences,Engineering
+"Statistics, Probability and Uncertainty","Statistics, Probability and Uncertainty",333,Social Sciences,Decision Sciences
+Development,Development,52,Social Sciences,Social Sciences
+Mechanical Engineering,Mechanical Engineering,1931,Physical Sciences,Engineering
+"Renewable Energy, Sustainability and the Environment","Renewable Energy, Sustainability and the Environment",1411,Physical Sciences,Energy
+Biophysics,Biophysics,446,Life Sciences,"Biochemistry, Genetics and Molecular Biology"
+Cellular and Molecular Neuroscience,Cellular and Molecular Neuroscience,1554,Life Sciences,Neuroscience
+Clinical Psychology,Clinical Psychology,1368,Social Sciences,Psychology
+Industrial relations,Industrial relations,1,Social Sciences,"Business, Management and Accounting"
+Genetics,Genetics,3319,Health Sciences,Medicine
+Information Systems,Information Systems,826,Physical Sciences,Computer Science
+Social Psychology,Social Psychology,1086,Social Sciences,Psychology
+Astronomy and Astrophysics,Astronomy and Astrophysics,1981,Physical Sciences,Physics and Astronomy
+Human-Computer Interaction,Human-Computer Interaction,196,Physical Sciences,Computer Science
+Infectious Diseases,Infectious Diseases,1927,Health Sciences,Medicine
+Cardiology and Cardiovascular Medicine,Cardiology and Cardiovascular Medicine,2207,Health Sciences,Medicine
+Pollution,Pollution,888,Physical Sciences,Environmental Science
+"Atomic and Molecular Physics, and Optics","Atomic and Molecular Physics, and Optics",1870,Physical Sciences,Physics and Astronomy
+Computational Mechanics,Computational Mechanics,605,Physical Sciences,Engineering
+Computer Graphics and Computer-Aided Design,Computer Graphics and Computer-Aided Design,103,Physical Sciences,Computer Science
+Communication,Communication,190,Social Sciences,Social Sciences
+Parasitology,Parasitology,176,Life Sciences,Immunology and Microbiology
+Safety Research,Safety Research,535,Social Sciences,Social Sciences
+Signal Processing,Signal Processing,326,Physical Sciences,Computer Science
+Hardware and Architecture,Hardware and Architecture,94,Physical Sciences,Computer Science
+Automotive Engineering,Automotive Engineering,965,Physical Sciences,Engineering
+Environmental Engineering,Environmental Engineering,1139,Physical Sciences,Environmental Science
+Geochemistry and Petrology,Geochemistry and Petrology,167,Physical Sciences,Earth and Planetary Sciences
+Ocean Engineering,Ocean Engineering,529,Physical Sciences,Engineering
+Media Technology,Media Technology,472,Physical Sciences,Engineering
+Marketing,Marketing,384,Social Sciences,"Business, Management and Accounting"
+Radiation,Radiation,209,Physical Sciences,Physics and Astronomy
+Agronomy and Crop Science,Agronomy and Crop Science,257,Life Sciences,Agricultural and Biological Sciences
+Radiological and Ultrasound Technology,Radiological and Ultrasound Technology,164,Health Sciences,Health Professions
+Animal Science and Zoology,Animal Science and Zoology,322,Life Sciences,Agricultural and Biological Sciences
+Molecular Medicine,Molecular Medicine,294,Life Sciences,"Biochemistry, Genetics and Molecular Biology"
+Pathology and Forensic Medicine,Pathology and Forensic Medicine,1145,Health Sciences,Medicine
+Pharmacology,Pharmacology,1109,Health Sciences,Medicine
+Industrial and Manufacturing Engineering,Industrial and Manufacturing Engineering,790,Physical Sciences,Engineering
+Developmental and Educational Psychology,Developmental and Educational Psychology,427,Social Sciences,Psychology
+Archeology,Archeology,72,Social Sciences,Arts and Humanities
+Control and Systems Engineering,Control and Systems Engineering,628,Physical Sciences,Engineering
+Obstetrics and Gynecology,Obstetrics and Gynecology,380,Health Sciences,Medicine
+Virology,Virology,298,Life Sciences,Immunology and Microbiology
+Analytical Chemistry,Analytical Chemistry,214,Physical Sciences,Chemistry
+Endocrine and Autonomic Systems,Endocrine and Autonomic Systems,377,Life Sciences,Neuroscience
+Information Systems and Management,Information Systems and Management,273,Social Sciences,Decision Sciences
+Insect Science,Insect Science,410,Life Sciences,Agricultural and Biological Sciences
+Software,Software,83,Physical Sciences,Computer Science
+Ophthalmology,Ophthalmology,361,Health Sciences,Medicine
+Rehabilitation,Rehabilitation,317,Health Sciences,Medicine
+Clinical Biochemistry,Clinical Biochemistry,219,Life Sciences,"Biochemistry, Genetics and Molecular Biology"
+Nutrition and Dietetics,Nutrition and Dietetics,711,Health Sciences,Nursing
+Mechanics of Materials,Mechanics of Materials,673,Physical Sciences,Engineering
+Internal Medicine,Internal Medicine,176,Health Sciences,Medicine
+Soil Science,Soil Science,350,Life Sciences,Agricultural and Biological Sciences
+Periodontics,Periodontics,129,Health Sciences,Dentistry
+Gastroenterology,Gastroenterology,245,Health Sciences,Medicine
+Modeling and Simulation,Modeling and Simulation,232,Physical Sciences,Mathematics
+Spectroscopy,Spectroscopy,606,Physical Sciences,Chemistry
+Endocrinology,Endocrinology,184,Life Sciences,"Biochemistry, Genetics and Molecular Biology"
+"Electronic, Optical and Magnetic Materials","Electronic, Optical and Magnetic Materials",919,Physical Sciences,Materials Science
+Speech and Hearing,Speech and Hearing,247,Health Sciences,Health Professions
+Instrumentation,Instrumentation,322,Physical Sciences,Physics and Astronomy
+History,History,36,Social Sciences,Arts and Humanities
+Classics,Classics,7,Social Sciences,Arts and Humanities
+Environmental Chemistry,Environmental Chemistry,611,Physical Sciences,Environmental Science
+Energy Engineering and Power Technology,Energy Engineering and Power Technology,174,Physical Sciences,Energy
+Developmental Neuroscience,Developmental Neuroscience,205,Life Sciences,Neuroscience
+Reproductive Medicine,Reproductive Medicine,334,Health Sciences,Medicine
+Computer Science Applications,Computer Science Applications,283,Physical Sciences,Computer Science
+Critical Care and Intensive Care Medicine,Critical Care and Intensive Care Medicine,311,Health Sciences,Medicine
+Organic Chemistry,Organic Chemistry,1087,Physical Sciences,Chemistry
+"General Economics, Econometrics and Finance","General Economics, Econometrics and Finance",291,Social Sciences,"Economics, Econometrics and Finance"
+Biochemistry,Biochemistry,352,Life Sciences,"Biochemistry, Genetics and Molecular Biology"
+Strategy and Management,Strategy and Management,576,Social Sciences,"Business, Management and Accounting"
+Aerospace Engineering,Aerospace Engineering,897,Physical Sciences,Engineering
+Biomaterials,Biomaterials,863,Physical Sciences,Materials Science
+Process Chemistry and Technology,Process Chemistry and Technology,113,Physical Sciences,Chemical Engineering
+Applied Microbiology and Biotechnology,Applied Microbiology and Biotechnology,86,Life Sciences,Immunology and Microbiology
+Orthopedics and Sports Medicine,Orthopedics and Sports Medicine,292,Health Sciences,Medicine
+Numerical Analysis,Numerical Analysis,53,Physical Sciences,Mathematics
+Condensed Matter Physics,Condensed Matter Physics,555,Physical Sciences,Physics and Astronomy
+Accounting,Accounting,376,Social Sciences,"Business, Management and Accounting"
+Catalysis,Catalysis,404,Physical Sciences,Chemical Engineering
+Sensory Systems,Sensory Systems,233,Life Sciences,Neuroscience
+Civil and Structural Engineering,Civil and Structural Engineering,893,Physical Sciences,Engineering
+Pharmacy,Pharmacy,162,Health Sciences,Health Professions
+Aging,Aging,170,Life Sciences,"Biochemistry, Genetics and Molecular Biology"
+Biological Psychiatry,Biological Psychiatry,287,Life Sciences,Neuroscience
+Applied Psychology,Applied Psychology,347,Social Sciences,Psychology
+Electrochemistry,Electrochemistry,191,Physical Sciences,Chemistry
+Hematology,Hematology,683,Health Sciences,Medicine
+History and Philosophy of Science,History and Philosophy of Science,32,Social Sciences,Arts and Humanities
+Family Practice,Family Practice,145,Health Sciences,Medicine
+Complementary and alternative medicine,Complementary and alternative medicine,227,Health Sciences,Medicine
+General Social Sciences,General Social Sciences,50,Social Sciences,Social Sciences
+Management Information Systems,Management Information Systems,389,Social Sciences,"Business, Management and Accounting"
+Management of Technology and Innovation,Management of Technology and Innovation,208,Social Sciences,"Business, Management and Accounting"
+"Safety, Risk, Reliability and Quality","Safety, Risk, Reliability and Quality",258,Physical Sciences,Engineering
+"Geography, Planning and Development","Geography, Planning and Development",54,Social Sciences,Social Sciences
+General Energy,General Energy,33,Physical Sciences,Energy
+Toxicology,Toxicology,94,Life Sciences,"Pharmacology, Toxicology and Pharmaceutics"
+Algebra and Number Theory,Algebra and Number Theory,42,Physical Sciences,Mathematics
+Demography,Demography,237,Social Sciences,Social Sciences
+Computational Mathematics,Computational Mathematics,21,Physical Sciences,Mathematics
+Literature and Literary Theory,Literature and Literary Theory,123,Social Sciences,Arts and Humanities
+Transplantation,Transplantation,94,Health Sciences,Medicine
+Ceramics and Composites,Ceramics and Composites,70,Physical Sciences,Materials Science
+"Surfaces, Coatings and Films","Surfaces, Coatings and Films",183,Physical Sciences,Materials Science
+Behavioral Neuroscience,Behavioral Neuroscience,153,Life Sciences,Neuroscience
+Nuclear Energy and Engineering,Nuclear Energy and Engineering,5,Physical Sciences,Energy
+Building and Construction,Building and Construction,652,Physical Sciences,Engineering
+Complementary and Manual Therapy,Complementary and Manual Therapy,32,Health Sciences,Health Professions
+Geophysics,Geophysics,452,Physical Sciences,Earth and Planetary Sciences
+Occupational Therapy,Occupational Therapy,78,Health Sciences,Health Professions
+Bioengineering,Bioengineering,92,Physical Sciences,Chemical Engineering
+Otorhinolaryngology,Otorhinolaryngology,123,Health Sciences,Medicine
+Physical and Theoretical Chemistry,Physical and Theoretical Chemistry,160,Physical Sciences,Chemistry
+Orthodontics,Orthodontics,91,Health Sciences,Dentistry
+Oral Surgery,Oral Surgery,152,Health Sciences,Dentistry
+Structural Biology,Structural Biology,114,Life Sciences,"Biochemistry, Genetics and Molecular Biology"
+Small Animals,Small Animals,173,Health Sciences,Veterinary
+Business and International Management,Business and International Management,94,Social Sciences,"Business, Management and Accounting"
+Urban Studies,Urban Studies,73,Social Sciences,Social Sciences
+Equine,Equine,12,Health Sciences,Veterinary
+Emergency Medical Services,Emergency Medical Services,232,Health Sciences,Health Professions
+Applied Mathematics,Applied Mathematics,133,Physical Sciences,Mathematics
+Fluid Flow and Transfer Processes,Fluid Flow and Transfer Processes,105,Physical Sciences,Chemical Engineering
+General Decision Sciences,General Decision Sciences,56,Social Sciences,Decision Sciences
+Metals and Alloys,Metals and Alloys,47,Physical Sciences,Materials Science
+Neuropsychology and Physiological Psychology,Neuropsychology and Physiological Psychology,37,Social Sciences,Psychology
+Pharmaceutical Science,Pharmaceutical Science,193,Life Sciences,"Pharmacology, Toxicology and Pharmaceutics"
+Geology,Geology,95,Physical Sciences,Earth and Planetary Sciences
+Acoustics and Ultrasonics,Acoustics and Ultrasonics,33,Physical Sciences,Physics and Astronomy
+Transportation,Transportation,241,Social Sciences,Social Sciences
+Urology,Urology,177,Health Sciences,Medicine
+Developmental Biology,Developmental Biology,46,Life Sciences,"Biochemistry, Genetics and Molecular Biology"
+Earth-Surface Processes,Earth-Surface Processes,167,Physical Sciences,Earth and Planetary Sciences
+Anesthesiology and Pain Medicine,Anesthesiology and Pain Medicine,212,Health Sciences,Medicine
+"Issues, ethics and legal aspects","Issues, ethics and legal aspects",14,Health Sciences,Nursing
+Medical Laboratory Technology,Medical Laboratory Technology,31,Health Sciences,Health Professions
+"Physical Therapy, Sports Therapy and Rehabilitation","Physical Therapy, Sports Therapy and Rehabilitation",91,Health Sciences,Health Professions
+Music,Music,14,Social Sciences,Arts and Humanities
+Museology,Museology,16,Social Sciences,Arts and Humanities
+Chemical Health and Safety,Chemical Health and Safety,9,Physical Sciences,Chemical Engineering
+Space and Planetary Science,Space and Planetary Science,9,Physical Sciences,Earth and Planetary Sciences
+Religious studies,Religious studies,15,Social Sciences,Arts and Humanities
+Filtration and Separation,Filtration and Separation,13,Physical Sciences,Chemical Engineering
+General Dentistry,General Dentistry,29,Health Sciences,Dentistry
+Public Administration,Public Administration,40,Social Sciences,Social Sciences
+Linguistics and Language,Linguistics and Language,44,Social Sciences,Social Sciences
+Fuel Technology,Fuel Technology,4,Physical Sciences,Energy
+General Materials Science,General Materials Science,14,Physical Sciences,Materials Science
+Research and Theory,Research and Theory,20,Health Sciences,Nursing
+General Psychology,General Psychology,6,Social Sciences,Psychology
+Anatomy,Anatomy,6,Health Sciences,Medicine
+"Tourism, Leisure and Hospitality Management","Tourism, Leisure and Hospitality Management",13,Social Sciences,"Business, Management and Accounting"
+Horticulture,Horticulture,12,Life Sciences,Agricultural and Biological Sciences
+Theoretical Computer Science,Theoretical Computer Science,6,Physical Sciences,Mathematics
+Medical Terminology,Medical Terminology,5,Health Sciences,Health Professions
+Human Factors and Ergonomics,Human Factors and Ergonomics,15,Social Sciences,Social Sciences
+General Engineering,General Engineering,1,Physical Sciences,Engineering
+Leadership and Management,Leadership and Management,5,Health Sciences,Nursing
+Library and Information Sciences,Library and Information Sciences,1,Social Sciences,Social Sciences

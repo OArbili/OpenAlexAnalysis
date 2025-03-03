@@ -1,0 +1,41 @@
+source,target,weight,percent_growth
+Materials Chemistry,Oncology,15.414255142211914,513.8085047403972
+Materials Chemistry,Pulmonary and Respiratory Medicine,15.260543823242188,508.68479410807294
+Materials Chemistry,Automotive Engineering,10.23187255859375,127.89840698242188
+Oncology,Clinical Psychology,10.014589309692383,333.8196436564128
+Pulmonary and Respiratory Medicine,Electrical and Electronic Engineering,13.00615119934082,325.1537799835205
+"Renewable Energy, Sustainability and the Environment","Atomic and Molecular Physics, and Optics",13.920883178710938,464.02943929036456
+"Renewable Energy, Sustainability and the Environment",Automotive Engineering,12.7667236328125,319.1680908203125
+"Renewable Energy, Sustainability and the Environment",Pollution,9.939546585083008,248.4886646270752
+"Atomic and Molecular Physics, and Optics",Cardiology and Cardiovascular Medicine,12.678278923034668,422.60929743448895
+Electrical and Electronic Engineering,Instrumentation,13.770811080932617,459.0270360310872
+Electrical and Electronic Engineering,Nuclear and High Energy Physics,9.770811080932617,139.58301544189453
+Electrical and Electronic Engineering,"Radiology, Nuclear Medicine and Imaging",9.68722152709961,193.7444305419922
+Electrical and Electronic Engineering,Cardiology and Cardiovascular Medicine,9.11073112487793,113.88413906097412
+Automotive Engineering,Surgery,13.341215133666992,444.7071711222331
+Automotive Engineering,Social Psychology,10.720940589904785,268.02351474761963
+Automotive Engineering,"Health, Toxicology and Mutagenesis",9.689702987670898,322.99009958902997
+Surgery,Endocrine and Autonomic Systems,9.023702621459961,300.7900873819987
+Immunology,"Endocrinology, Diabetes and Metabolism",13.051647186279297,435.0549062093099
+Immunology,Ophthalmology,10.901164054870605,363.3721351623535
+Immunology,Rehabilitation,10.415233612060547,347.17445373535156
+Immunology,Biological Psychiatry,10.262455940246582,342.08186467488605
+Immunology,Transplantation,10.02025032043457,334.00834401448566
+Immunology,Psychiatry and Mental health,10.006156921386719,250.15392303466797
+"Endocrinology, Diabetes and Metabolism",Cancer Research,10.051641464233398,167.5273577372233
+"Endocrinology, Diabetes and Metabolism",Endocrine and Autonomic Systems,9.366549491882324,234.1637372970581
+Cardiology and Cardiovascular Medicine,Cellular and Molecular Neuroscience,9.990675926208496,249.7668981552124
+Cancer Research,Hepatology,11.897128105163574,297.42820262908936
+Cancer Research,Biomedical Engineering,10.713471412658691,214.2694282531738
+Cancer Research,Economics and Econometrics,10.020248413085938,334.00828043619794
+Cancer Research,Otorhinolaryngology,9.933516502380371,248.33791255950928
+Cancer Research,Immunology and Allergy,9.02060317993164,225.51507949829102
+Biomedical Engineering,Nuclear and High Energy Physics,11.770811080932617,235.41622161865234
+Biomedical Engineering,Epidemiology,11.178796768188477,186.31327946980795
+Biomedical Engineering,Developmental Neuroscience,11.009265899658203,366.97552998860675
+Biomedical Engineering,"Public Health, Environmental and Occupational Health",10.695473670959473,356.5157890319824
+Biomedical Engineering,Rehabilitation,9.099420547485352,181.988410949707
+Epidemiology,Endocrine and Autonomic Systems,10.86286449432373,362.09548314412433
+Epidemiology,Periodontics,9.605768203735352,320.19227345784503
+Epidemiology,Experimental and Cognitive Psychology,9.522900581359863,238.07251453399658
+Infectious Diseases,Periodontics,9.61473274230957,320.49109141031903

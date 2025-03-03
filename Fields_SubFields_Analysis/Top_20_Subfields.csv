@@ -1,0 +1,21 @@
+Name,Count,Domain,Connections,Normalized Centrality,Field
+Molecular Biology,35341,Life Sciences,194,0.7984,"Biochemistry, Genetics and Molecular Biology"
+Epidemiology,14529,Health Sciences,159,0.6543,Medicine
+Biomedical Engineering,14346,Physical Sciences,188,0.7737,Engineering
+Electrical and Electronic Engineering,14046,Physical Sciences,167,0.6872,Engineering
+Surgery,13978,Health Sciences,155,0.6379,Medicine
+Oncology,12934,Health Sciences,135,0.5556,Medicine
+Materials Chemistry,12617,Physical Sciences,157,0.6461,Materials Science
+Artificial Intelligence,12558,Physical Sciences,177,0.7284,Computer Science
+Genetics,12416,Life Sciences,175,0.7202,"Biochemistry, Genetics and Molecular Biology"
+Pulmonary and Respiratory Medicine,11965,Health Sciences,159,0.6543,Medicine
+"Public Health, Environmental and Occupational Health",11556,Health Sciences,184,0.7572,Medicine
+Physiology,10352,Health Sciences,176,0.7243,Medicine
+Sociology and Political Science,10208,Social Sciences,180,0.7407,Social Sciences
+Immunology,9032,Life Sciences,121,0.4979,Immunology and Microbiology
+"Radiology, Nuclear Medicine and Imaging",8718,Health Sciences,166,0.6831,Medicine
+Cardiology and Cardiovascular Medicine,8235,Health Sciences,135,0.5556,Medicine
+Infectious Diseases,8219,Health Sciences,126,0.5185,Medicine
+Cognitive Neuroscience,8093,Life Sciences,160,0.6584,Neuroscience
+Neurology,8040,Life Sciences,139,0.5720,Neuroscience
+Global and Planetary Change,8037,Physical Sciences,144,0.5926,Environmental Science

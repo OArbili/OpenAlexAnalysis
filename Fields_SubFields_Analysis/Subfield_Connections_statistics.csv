@@ -1,0 +1,26 @@
+Metric,Value
+Number of Nodes,244
+Number of Edges,9962
+Graph Density,0.3360
+Min Edge Weight,1
+Max Edge Weight,3874
+Mean Edge Weight,47.5781
+Median Edge Weight,6.0000
+Max Degree Centrality,0.7984
+Mean Degree Centrality,0.3360
+Max Betweenness Centrality,0.0252
+Mean Betweenness Centrality,0.0028
+Global Clustering Coefficient,0.6607
+Number of Connected Components,1
+Largest Component Size,244
+Largest Component Percentage,100.0000
+Min Degree,1
+Max Degree,194
+Mean Degree,81.6557
+Median Degree,81.0000
+Number of Domains,4
+Most Common Domain,Physical Sciences
+Most Common Domain Count,88
+Number of Fields,26
+Most Common Field,Medicine
+Most Common Field Count,38

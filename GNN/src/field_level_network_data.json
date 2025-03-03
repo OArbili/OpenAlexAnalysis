@@ -1,0 +1,255 @@
+{
+  "graph_data": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "id": "Dentistry"
+      },
+      {
+        "id": "Physics and Astronomy"
+      },
+      {
+        "id": "Engineering"
+      },
+      {
+        "id": "Immunology and Microbiology"
+      },
+      {
+        "id": "Biochemistry, Genetics and Molecular Biology"
+      },
+      {
+        "id": "Neuroscience"
+      },
+      {
+        "id": "Medicine"
+      },
+      {
+        "id": "Materials Science"
+      },
+      {
+        "id": "Economics, Econometrics and Finance"
+      },
+      {
+        "id": "Psychology"
+      },
+      {
+        "id": "Energy"
+      },
+      {
+        "id": "Environmental Science"
+      }
+    ],
+    "links": [
+      {
+        "weight": 19.220500946044922,
+        "source": "Dentistry",
+        "target": "Medicine"
+      },
+      {
+        "weight": 13.920883178710938,
+        "source": "Physics and Astronomy",
+        "target": "Energy"
+      },
+      {
+        "weight": 35.31243324279785,
+        "source": "Physics and Astronomy",
+        "target": "Engineering"
+      },
+      {
+        "weight": 12.678278923034668,
+        "source": "Physics and Astronomy",
+        "target": "Medicine"
+      },
+      {
+        "weight": 76.11900997161865,
+        "source": "Engineering",
+        "target": "Medicine"
+      },
+      {
+        "weight": 12.7667236328125,
+        "source": "Engineering",
+        "target": "Energy"
+      },
+      {
+        "weight": 11.009265899658203,
+        "source": "Engineering",
+        "target": "Neuroscience"
+      },
+      {
+        "weight": 10.720940589904785,
+        "source": "Engineering",
+        "target": "Psychology"
+      },
+      {
+        "weight": 10.713471412658691,
+        "source": "Engineering",
+        "target": "Biochemistry, Genetics and Molecular Biology"
+      },
+      {
+        "weight": 10.23187255859375,
+        "source": "Engineering",
+        "target": "Materials Science"
+      },
+      {
+        "weight": 9.689702987670898,
+        "source": "Engineering",
+        "target": "Environmental Science"
+      },
+      {
+        "weight": 54.39445209503174,
+        "source": "Immunology and Microbiology",
+        "target": "Medicine"
+      },
+      {
+        "weight": 10.262455940246582,
+        "source": "Immunology and Microbiology",
+        "target": "Neuroscience"
+      },
+      {
+        "weight": 40.902889251708984,
+        "source": "Biochemistry, Genetics and Molecular Biology",
+        "target": "Medicine"
+      },
+      {
+        "weight": 10.020248413085938,
+        "source": "Biochemistry, Genetics and Molecular Biology",
+        "target": "Economics, Econometrics and Finance"
+      },
+      {
+        "weight": 39.24379253387451,
+        "source": "Neuroscience",
+        "target": "Medicine"
+      },
+      {
+        "weight": 30.6747989654541,
+        "source": "Medicine",
+        "target": "Materials Science"
+      },
+      {
+        "weight": 19.537489891052246,
+        "source": "Medicine",
+        "target": "Psychology"
+      },
+      {
+        "weight": 9.939546585083008,
+        "source": "Energy",
+        "target": "Environmental Science"
+      }
+    ]
+  },
+  "pos": {
+    "Dentistry": [
+      0.5036589531225821,
+      0.2285798586635773
+    ],
+    "Physics and Astronomy": [
+      0.0008156662203320592,
+      -0.41563539228971413
+    ],
+    "Engineering": [
+      -0.06971420005166944,
+      -0.17463800338233698
+    ],
+    "Immunology and Microbiology": [
+      -0.11828840234824027,
+      0.36548624350890246
+    ],
+    "Biochemistry, Genetics and Molecular Biology": [
+      0.16026524034099646,
+      0.38825857541845743
+    ],
+    "Neuroscience": [
+      -0.27851858832848847,
+      0.19715216481662096
+    ],
+    "Medicine": [
+      0.00271780856366164,
+      0.08476005522585627
+    ],
+    "Materials Science": [
+      -0.37061013451057745,
+      -0.04565479950185246
+    ],
+    "Economics, Econometrics and Finance": [
+      0.36598496868261327,
+      1.0
+    ],
+    "Psychology": [
+      0.34521882429930595,
+      -0.16856836347136384
+    ],
+    "Energy": [
+      -0.10572240911335058,
+      -0.7184009767733196
+    ],
+    "Environmental Science": [
+      -0.4358077268771666,
+      -0.7413393622148268
+    ]
+  },
+  "node_colors": [
+    "#1f77b4",
+    "#ff7f0e",
+    "#2ca02c",
+    "#d62728",
+    "#9467bd",
+    "#8c564b",
+    "#e377c2",
+    "#7f7f7f",
+    "#bcbd22",
+    "#17becf",
+    "#aec7e8",
+    "#ffbb78"
+  ],
+  "edge_weights": [
+    9.610250473022461,
+    6.960441589355469,
+    17.656216621398926,
+    6.339139461517334,
+    38.059504985809326,
+    6.38336181640625,
+    5.504632949829102,
+    5.360470294952393,
+    5.356735706329346,
+    5.115936279296875,
+    4.844851493835449,
+    27.19722604751587,
+    5.131227970123291,
+    20.451444625854492,
+    5.010124206542969,
+    19.621896266937256,
+    15.33739948272705,
+    9.768744945526123,
+    4.969773292541504
+  ],
+  "node_sizes": [
+    884.4100189208984,
+    1738.2319068908691,
+    4031.2684059143066,
+    1793.1381607055664,
+    1732.7321815490723,
+    1710.310287475586,
+    6355.4242515563965,
+    1318.133430480957,
+    700.4049682617188,
+    1105.1686096191406,
+    1232.543067932129,
+    892.5849914550781
+  ],
+  "field_colors": {
+    "Dentistry": "#1f77b4",
+    "Physics and Astronomy": "#ff7f0e",
+    "Engineering": "#2ca02c",
+    "Immunology and Microbiology": "#d62728",
+    "Biochemistry, Genetics and Molecular Biology": "#9467bd",
+    "Neuroscience": "#8c564b",
+    "Medicine": "#e377c2",
+    "Materials Science": "#7f7f7f",
+    "Economics, Econometrics and Finance": "#bcbd22",
+    "Psychology": "#17becf",
+    "Energy": "#aec7e8",
+    "Environmental Science": "#ffbb78"
+  }
+}

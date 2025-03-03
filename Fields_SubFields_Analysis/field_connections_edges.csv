@@ -1,0 +1,297 @@
+Source,Target,Weight,Type
+Medicine,"Biochemistry, Genetics and Molecular Biology",6491,Undirected
+Medicine,Social Sciences,810,Undirected
+Medicine,Environmental Science,527,Undirected
+Medicine,Computer Science,984,Undirected
+Medicine,Neuroscience,2074,Undirected
+Medicine,Immunology and Microbiology,2192,Undirected
+Medicine,Engineering,1269,Undirected
+Medicine,Health Professions,1432,Undirected
+Medicine,Decision Sciences,92,Undirected
+Medicine,Agricultural and Biological Sciences,693,Undirected
+Medicine,Nursing,404,Undirected
+Medicine,Psychology,1021,Undirected
+Medicine,Materials Science,286,Undirected
+Medicine,Dentistry,158,Undirected
+Medicine,Mathematics,216,Undirected
+Medicine,"Business, Management and Accounting",94,Undirected
+Medicine,"Economics, Econometrics and Finance",414,Undirected
+Medicine,Chemistry,251,Undirected
+Medicine,Physics and Astronomy,168,Undirected
+Medicine,"Pharmacology, Toxicology and Pharmaceutics",235,Undirected
+Medicine,Veterinary,84,Undirected
+Medicine,Arts and Humanities,64,Undirected
+Medicine,Earth and Planetary Sciences,33,Undirected
+Medicine,Energy,15,Undirected
+Medicine,Chemical Engineering,11,Undirected
+Earth and Planetary Sciences,Environmental Science,1367,Undirected
+Earth and Planetary Sciences,Agricultural and Biological Sciences,120,Undirected
+Earth and Planetary Sciences,Engineering,394,Undirected
+Earth and Planetary Sciences,Arts and Humanities,31,Undirected
+Earth and Planetary Sciences,"Biochemistry, Genetics and Molecular Biology",99,Undirected
+Earth and Planetary Sciences,"Economics, Econometrics and Finance",6,Undirected
+Earth and Planetary Sciences,Social Sciences,74,Undirected
+Earth and Planetary Sciences,Computer Science,124,Undirected
+Earth and Planetary Sciences,Physics and Astronomy,334,Undirected
+Earth and Planetary Sciences,Chemical Engineering,12,Undirected
+Earth and Planetary Sciences,Materials Science,99,Undirected
+Earth and Planetary Sciences,Chemistry,57,Undirected
+Earth and Planetary Sciences,Health Professions,7,Undirected
+Earth and Planetary Sciences,Decision Sciences,11,Undirected
+Earth and Planetary Sciences,Energy,20,Undirected
+Earth and Planetary Sciences,Nursing,1,Undirected
+Earth and Planetary Sciences,Psychology,9,Undirected
+Earth and Planetary Sciences,Mathematics,13,Undirected
+Earth and Planetary Sciences,Neuroscience,4,Undirected
+Earth and Planetary Sciences,Veterinary,1,Undirected
+Earth and Planetary Sciences,"Business, Management and Accounting",1,Undirected
+Earth and Planetary Sciences,Immunology and Microbiology,1,Undirected
+Environmental Science,Agricultural and Biological Sciences,1046,Undirected
+Environmental Science,Social Sciences,398,Undirected
+Environmental Science,Immunology and Microbiology,89,Undirected
+Environmental Science,Health Professions,179,Undirected
+Environmental Science,Energy,324,Undirected
+Environmental Science,Engineering,1444,Undirected
+Environmental Science,"Business, Management and Accounting",105,Undirected
+Environmental Science,"Biochemistry, Genetics and Molecular Biology",796,Undirected
+Environmental Science,Mathematics,26,Undirected
+Environmental Science,Physics and Astronomy,95,Undirected
+Environmental Science,Psychology,106,Undirected
+Environmental Science,Chemistry,249,Undirected
+Environmental Science,Neuroscience,83,Undirected
+Environmental Science,"Economics, Econometrics and Finance",213,Undirected
+Environmental Science,Materials Science,355,Undirected
+Environmental Science,Chemical Engineering,44,Undirected
+Environmental Science,Decision Sciences,38,Undirected
+Environmental Science,Computer Science,143,Undirected
+Environmental Science,"Pharmacology, Toxicology and Pharmaceutics",8,Undirected
+Environmental Science,Arts and Humanities,19,Undirected
+Environmental Science,Nursing,76,Undirected
+Environmental Science,Dentistry,7,Undirected
+Environmental Science,Veterinary,16,Undirected
+Neuroscience,"Biochemistry, Genetics and Molecular Biology",1191,Undirected
+Neuroscience,Materials Science,91,Undirected
+Neuroscience,Engineering,393,Undirected
+Neuroscience,Computer Science,278,Undirected
+Neuroscience,Physics and Astronomy,64,Undirected
+Neuroscience,Psychology,727,Undirected
+Neuroscience,Social Sciences,137,Undirected
+Neuroscience,Immunology and Microbiology,184,Undirected
+Neuroscience,Agricultural and Biological Sciences,118,Undirected
+Neuroscience,Chemical Engineering,7,Undirected
+Neuroscience,Nursing,74,Undirected
+Neuroscience,Arts and Humanities,40,Undirected
+Neuroscience,"Economics, Econometrics and Finance",8,Undirected
+Neuroscience,Chemistry,67,Undirected
+Neuroscience,Health Professions,82,Undirected
+Neuroscience,"Pharmacology, Toxicology and Pharmaceutics",29,Undirected
+Neuroscience,Decision Sciences,20,Undirected
+Neuroscience,Veterinary,6,Undirected
+Neuroscience,Mathematics,8,Undirected
+Neuroscience,"Business, Management and Accounting",6,Undirected
+Neuroscience,Energy,3,Undirected
+Computer Science,Physics and Astronomy,576,Undirected
+Computer Science,Decision Sciences,294,Undirected
+Computer Science,Social Sciences,612,Undirected
+Computer Science,"Biochemistry, Genetics and Molecular Biology",468,Undirected
+Computer Science,Materials Science,181,Undirected
+Computer Science,Engineering,1277,Undirected
+Computer Science,Psychology,288,Undirected
+Computer Science,Mathematics,163,Undirected
+Computer Science,Energy,55,Undirected
+Computer Science,Chemical Engineering,31,Undirected
+Computer Science,"Business, Management and Accounting",230,Undirected
+Computer Science,Health Professions,135,Undirected
+Computer Science,Chemistry,83,Undirected
+Computer Science,Agricultural and Biological Sciences,45,Undirected
+Computer Science,"Economics, Econometrics and Finance",72,Undirected
+Computer Science,Arts and Humanities,39,Undirected
+Computer Science,"Pharmacology, Toxicology and Pharmaceutics",26,Undirected
+Computer Science,Immunology and Microbiology,12,Undirected
+Computer Science,Nursing,5,Undirected
+Computer Science,Dentistry,6,Undirected
+Computer Science,Veterinary,5,Undirected
+Agricultural and Biological Sciences,Health Professions,30,Undirected
+Agricultural and Biological Sciences,Social Sciences,89,Undirected
+Agricultural and Biological Sciences,Chemistry,99,Undirected
+Agricultural and Biological Sciences,"Biochemistry, Genetics and Molecular Biology",1400,Undirected
+Agricultural and Biological Sciences,Physics and Astronomy,9,Undirected
+Agricultural and Biological Sciences,Engineering,208,Undirected
+Agricultural and Biological Sciences,Psychology,65,Undirected
+Agricultural and Biological Sciences,Immunology and Microbiology,126,Undirected
+Agricultural and Biological Sciences,Arts and Humanities,7,Undirected
+Agricultural and Biological Sciences,Materials Science,103,Undirected
+Agricultural and Biological Sciences,Energy,31,Undirected
+Agricultural and Biological Sciences,Nursing,138,Undirected
+Agricultural and Biological Sciences,Mathematics,13,Undirected
+Agricultural and Biological Sciences,"Economics, Econometrics and Finance",40,Undirected
+Agricultural and Biological Sciences,Veterinary,53,Undirected
+Agricultural and Biological Sciences,Decision Sciences,6,Undirected
+Agricultural and Biological Sciences,"Pharmacology, Toxicology and Pharmaceutics",33,Undirected
+Agricultural and Biological Sciences,"Business, Management and Accounting",57,Undirected
+Agricultural and Biological Sciences,Dentistry,3,Undirected
+Agricultural and Biological Sciences,Chemical Engineering,6,Undirected
+Arts and Humanities,Psychology,121,Undirected
+Arts and Humanities,Social Sciences,195,Undirected
+Arts and Humanities,Engineering,12,Undirected
+Arts and Humanities,"Biochemistry, Genetics and Molecular Biology",20,Undirected
+Arts and Humanities,Decision Sciences,11,Undirected
+Arts and Humanities,Health Professions,25,Undirected
+Arts and Humanities,"Business, Management and Accounting",15,Undirected
+Arts and Humanities,"Economics, Econometrics and Finance",9,Undirected
+Arts and Humanities,Physics and Astronomy,6,Undirected
+Arts and Humanities,Chemistry,2,Undirected
+Arts and Humanities,Dentistry,4,Undirected
+Arts and Humanities,Mathematics,3,Undirected
+Arts and Humanities,Materials Science,1,Undirected
+Psychology,Social Sciences,893,Undirected
+Psychology,Health Professions,411,Undirected
+Psychology,Physics and Astronomy,16,Undirected
+Psychology,Engineering,102,Undirected
+Psychology,"Biochemistry, Genetics and Molecular Biology",121,Undirected
+Psychology,Mathematics,43,Undirected
+Psychology,Decision Sciences,53,Undirected
+Psychology,"Business, Management and Accounting",70,Undirected
+Psychology,Materials Science,4,Undirected
+Psychology,Nursing,24,Undirected
+Psychology,"Pharmacology, Toxicology and Pharmaceutics",14,Undirected
+Psychology,Chemistry,74,Undirected
+Psychology,"Economics, Econometrics and Finance",25,Undirected
+Psychology,Veterinary,9,Undirected
+Psychology,Immunology and Microbiology,6,Undirected
+Psychology,Energy,2,Undirected
+Psychology,Dentistry,1,Undirected
+Mathematics,"Economics, Econometrics and Finance",99,Undirected
+Mathematics,Social Sciences,94,Undirected
+Mathematics,"Biochemistry, Genetics and Molecular Biology",60,Undirected
+Mathematics,Immunology and Microbiology,10,Undirected
+Mathematics,Physics and Astronomy,195,Undirected
+Mathematics,Engineering,114,Undirected
+Mathematics,Decision Sciences,55,Undirected
+Mathematics,Chemical Engineering,1,Undirected
+Mathematics,Nursing,1,Undirected
+Mathematics,Chemistry,6,Undirected
+Mathematics,Health Professions,11,Undirected
+Mathematics,"Pharmacology, Toxicology and Pharmaceutics",10,Undirected
+Mathematics,Materials Science,5,Undirected
+Mathematics,"Business, Management and Accounting",1,Undirected
+"Biochemistry, Genetics and Molecular Biology",Chemistry,537,Undirected
+"Biochemistry, Genetics and Molecular Biology",Materials Science,585,Undirected
+"Biochemistry, Genetics and Molecular Biology",Engineering,873,Undirected
+"Biochemistry, Genetics and Molecular Biology",Immunology and Microbiology,1260,Undirected
+"Biochemistry, Genetics and Molecular Biology",Dentistry,43,Undirected
+"Biochemistry, Genetics and Molecular Biology",Nursing,160,Undirected
+"Biochemistry, Genetics and Molecular Biology",Physics and Astronomy,254,Undirected
+"Biochemistry, Genetics and Molecular Biology","Economics, Econometrics and Finance",30,Undirected
+"Biochemistry, Genetics and Molecular Biology",Health Professions,63,Undirected
+"Biochemistry, Genetics and Molecular Biology",Energy,58,Undirected
+"Biochemistry, Genetics and Molecular Biology","Pharmacology, Toxicology and Pharmaceutics",128,Undirected
+"Biochemistry, Genetics and Molecular Biology",Decision Sciences,28,Undirected
+"Biochemistry, Genetics and Molecular Biology",Social Sciences,81,Undirected
+"Biochemistry, Genetics and Molecular Biology",Veterinary,41,Undirected
+"Biochemistry, Genetics and Molecular Biology","Business, Management and Accounting",9,Undirected
+"Biochemistry, Genetics and Molecular Biology",Chemical Engineering,21,Undirected
+Social Sciences,"Economics, Econometrics and Finance",361,Undirected
+Social Sciences,Health Professions,547,Undirected
+Social Sciences,"Business, Management and Accounting",439,Undirected
+Social Sciences,Physics and Astronomy,39,Undirected
+Social Sciences,Decision Sciences,191,Undirected
+Social Sciences,Engineering,349,Undirected
+Social Sciences,Energy,13,Undirected
+Social Sciences,Immunology and Microbiology,33,Undirected
+Social Sciences,"Pharmacology, Toxicology and Pharmaceutics",8,Undirected
+Social Sciences,Nursing,27,Undirected
+Social Sciences,Chemistry,9,Undirected
+Social Sciences,Dentistry,2,Undirected
+Social Sciences,Veterinary,1,Undirected
+Social Sciences,Materials Science,1,Undirected
+Engineering,Materials Science,2975,Undirected
+Engineering,Energy,720,Undirected
+Engineering,"Economics, Econometrics and Finance",89,Undirected
+Engineering,Physics and Astronomy,1073,Undirected
+Engineering,Immunology and Microbiology,72,Undirected
+Engineering,Decision Sciences,251,Undirected
+Engineering,"Business, Management and Accounting",179,Undirected
+Engineering,Chemistry,595,Undirected
+Engineering,Chemical Engineering,282,Undirected
+Engineering,Dentistry,63,Undirected
+Engineering,Health Professions,93,Undirected
+Engineering,"Pharmacology, Toxicology and Pharmaceutics",30,Undirected
+Engineering,Nursing,34,Undirected
+Engineering,Veterinary,6,Undirected
+Health Professions,"Business, Management and Accounting",88,Undirected
+Health Professions,"Economics, Econometrics and Finance",228,Undirected
+Health Professions,Decision Sciences,69,Undirected
+Health Professions,Chemistry,4,Undirected
+Health Professions,Immunology and Microbiology,30,Undirected
+Health Professions,Nursing,87,Undirected
+Health Professions,Dentistry,34,Undirected
+Health Professions,Veterinary,3,Undirected
+Health Professions,Chemical Engineering,3,Undirected
+Health Professions,"Pharmacology, Toxicology and Pharmaceutics",13,Undirected
+Health Professions,Physics and Astronomy,1,Undirected
+Health Professions,Materials Science,2,Undirected
+Health Professions,Energy,1,Undirected
+"Economics, Econometrics and Finance","Business, Management and Accounting",435,Undirected
+"Economics, Econometrics and Finance",Decision Sciences,163,Undirected
+"Economics, Econometrics and Finance",Immunology and Microbiology,24,Undirected
+"Economics, Econometrics and Finance",Energy,102,Undirected
+"Economics, Econometrics and Finance","Pharmacology, Toxicology and Pharmaceutics",21,Undirected
+"Economics, Econometrics and Finance",Physics and Astronomy,11,Undirected
+"Economics, Econometrics and Finance",Veterinary,1,Undirected
+"Economics, Econometrics and Finance",Nursing,2,Undirected
+"Economics, Econometrics and Finance",Materials Science,2,Undirected
+Materials Science,Physics and Astronomy,692,Undirected
+Materials Science,Energy,485,Undirected
+Materials Science,Chemical Engineering,289,Undirected
+Materials Science,Chemistry,791,Undirected
+Materials Science,Immunology and Microbiology,23,Undirected
+Materials Science,"Business, Management and Accounting",9,Undirected
+Materials Science,"Pharmacology, Toxicology and Pharmaceutics",32,Undirected
+Materials Science,Nursing,23,Undirected
+Materials Science,Decision Sciences,14,Undirected
+Materials Science,Dentistry,6,Undirected
+"Business, Management and Accounting",Decision Sciences,214,Undirected
+"Business, Management and Accounting",Energy,8,Undirected
+"Business, Management and Accounting",Nursing,6,Undirected
+"Business, Management and Accounting",Chemistry,1,Undirected
+"Business, Management and Accounting",Immunology and Microbiology,2,Undirected
+Physics and Astronomy,Chemistry,253,Undirected
+Physics and Astronomy,Decision Sciences,70,Undirected
+Physics and Astronomy,Energy,15,Undirected
+Physics and Astronomy,Chemical Engineering,28,Undirected
+Physics and Astronomy,Nursing,2,Undirected
+Physics and Astronomy,"Pharmacology, Toxicology and Pharmaceutics",1,Undirected
+Physics and Astronomy,Immunology and Microbiology,1,Undirected
+Physics and Astronomy,Dentistry,2,Undirected
+Decision Sciences,Chemical Engineering,5,Undirected
+Decision Sciences,Energy,6,Undirected
+Decision Sciences,"Pharmacology, Toxicology and Pharmaceutics",5,Undirected
+Decision Sciences,Chemistry,8,Undirected
+Decision Sciences,Veterinary,1,Undirected
+Decision Sciences,Dentistry,2,Undirected
+Decision Sciences,Immunology and Microbiology,1,Undirected
+Chemistry,Energy,199,Undirected
+Chemistry,Chemical Engineering,149,Undirected
+Chemistry,Immunology and Microbiology,25,Undirected
+Chemistry,"Pharmacology, Toxicology and Pharmaceutics",86,Undirected
+Chemistry,Nursing,21,Undirected
+Chemistry,Veterinary,1,Undirected
+Chemistry,Dentistry,1,Undirected
+Immunology and Microbiology,Energy,1,Undirected
+Immunology and Microbiology,Nursing,20,Undirected
+Immunology and Microbiology,Dentistry,10,Undirected
+Immunology and Microbiology,"Pharmacology, Toxicology and Pharmaceutics",26,Undirected
+Immunology and Microbiology,Veterinary,22,Undirected
+Immunology and Microbiology,Chemical Engineering,2,Undirected
+Energy,Chemical Engineering,199,Undirected
+Energy,"Pharmacology, Toxicology and Pharmaceutics",1,Undirected
+Energy,Dentistry,2,Undirected
+Nursing,Chemical Engineering,1,Undirected
+Nursing,"Pharmacology, Toxicology and Pharmaceutics",5,Undirected
+Nursing,Dentistry,3,Undirected
+Nursing,Veterinary,1,Undirected
+Dentistry,Chemical Engineering,1,Undirected
+Dentistry,"Pharmacology, Toxicology and Pharmaceutics",3,Undirected
+Chemical Engineering,"Pharmacology, Toxicology and Pharmaceutics",4,Undirected
+"Pharmacology, Toxicology and Pharmaceutics",Veterinary,7,Undirected

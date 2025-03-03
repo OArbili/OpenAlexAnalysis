@@ -1,0 +1,38 @@
+node_id,node_name,field,color,size,x_position,y_position,degree
+Materials Chemistry,Materials Chemistry,Materials Science,#7f7f7f,400,-0.47040002732873204,0.29040607603305335,3
+Oncology,Oncology,Medicine,#e377c2,400,-0.5043666089902002,0.5135850274251789,2
+Pulmonary and Respiratory Medicine,Pulmonary and Respiratory Medicine,Medicine,#e377c2,400,-0.4463153501487268,0.3699298810188243,2
+"Renewable Energy, Sustainability and the Environment","Renewable Energy, Sustainability and the Environment",Energy,#aec7e8,400,-0.7614446207338138,-0.05043828284116149,3
+"Atomic and Molecular Physics, and Optics","Atomic and Molecular Physics, and Optics",Physics and Astronomy,#ff7f0e,400,-0.8713636806145557,0.06503831955998164,2
+Electrical and Electronic Engineering,Electrical and Electronic Engineering,Engineering,#2ca02c,400,-0.48263853575844634,0.235610978798784,5
+Instrumentation,Instrumentation,Physics and Astronomy,#ff7f0e,400,-0.582117707615641,0.3631657734600307,1
+Automotive Engineering,Automotive Engineering,Engineering,#2ca02c,400,-0.4999441949285629,-0.014621384737014407,5
+Surgery,Surgery,Medicine,#e377c2,400,-0.21179746145358247,-0.05163251961427467,2
+Immunology,Immunology,Immunology and Microbiology,#d62728,400,0.5122954848623582,-0.5180472768964711,6
+"Endocrinology, Diabetes and Metabolism","Endocrinology, Diabetes and Metabolism",Medicine,#e377c2,400,0.4267626414650787,-0.2538816932851067,3
+Cardiology and Cardiovascular Medicine,Cardiology and Cardiovascular Medicine,Medicine,#e377c2,400,-0.7990808103016781,0.21153326314517498,3
+Cancer Research,Cancer Research,"Biochemistry, Genetics and Molecular Biology",#9467bd,400,0.606625778122825,-0.09432434358896293,6
+Hepatology,Hepatology,Medicine,#e377c2,400,0.7233160534199299,0.024540128669393802,1
+Biomedical Engineering,Biomedical Engineering,Engineering,#2ca02c,400,0.2771363967395799,-0.02688237984630639,6
+Nuclear and High Energy Physics,Nuclear and High Energy Physics,Physics and Astronomy,#ff7f0e,400,-0.08571404817000582,0.10842682442286858,2
+Epidemiology,Epidemiology,Medicine,#e377c2,400,0.2913880204120333,0.17687906953195975,4
+Developmental Neuroscience,Developmental Neuroscience,Neuroscience,#8c564b,400,0.3970014768847874,0.052556975319912436,1
+Ophthalmology,Ophthalmology,Medicine,#e377c2,400,0.4546258060597579,-0.6885455016599753,1
+Endocrine and Autonomic Systems,Endocrine and Autonomic Systems,Neuroscience,#8c564b,400,0.14791379995385895,-0.05300677922303757,3
+Social Psychology,Social Psychology,Psychology,#17becf,400,-0.6199425172730975,-0.13965248420216925,1
+"Public Health, Environmental and Occupational Health","Public Health, Environmental and Occupational Health",Medicine,#e377c2,400,0.237806390381609,-0.1606889451514435,1
+Rehabilitation,Rehabilitation,Medicine,#e377c2,400,0.37921226950371945,-0.3164278888899971,2
+Biological Psychiatry,Biological Psychiatry,Neuroscience,#8c564b,400,0.635007385325648,-0.6797556983935715,1
+Transplantation,Transplantation,Medicine,#e377c2,400,0.550967775416193,-0.7300529674939613,1
+Economics and Econometrics,Economics and Econometrics,"Economics, Econometrics and Finance",#bcbd22,400,0.8140865260043283,-0.017121964022024098,1
+Clinical Psychology,Clinical Psychology,Psychology,#17becf,400,-0.5558684480423893,0.707513915324607,1
+Psychiatry and Mental health,Psychiatry and Mental health,Medicine,#e377c2,400,0.6922047783711379,-0.5985564041234905,1
+Cellular and Molecular Neuroscience,Cellular and Molecular Neuroscience,Neuroscience,#8c564b,400,-1.0,0.2775838443571508,1
+Pollution,Pollution,Environmental Science,#ffbb78,400,-0.9403641126563314,-0.15611389091201663,1
+Otorhinolaryngology,Otorhinolaryngology,Medicine,#e377c2,400,0.815749679295308,-0.11566846255990329,1
+"Health, Toxicology and Mutagenesis","Health, Toxicology and Mutagenesis",Environmental Science,#ffbb78,400,-0.533184042906605,-0.20277149940496883,1
+"Radiology, Nuclear Medicine and Imaging","Radiology, Nuclear Medicine and Imaging",Medicine,#e377c2,400,-0.6718366603602887,0.33175317796810017,1
+Infectious Diseases,Infectious Diseases,Medicine,#e377c2,400,0.543984509211601,0.5852452781627474,1
+Periodontics,Periodontics,Dentistry,#1f77b4,400,0.43898579065215476,0.4124141983080381,2
+Experimental and Cognitive Psychology,Experimental and Cognitive Psychology,Psychology,#17becf,400,0.30941317333325075,0.3514665190789685,1
+Immunology and Allergy,Immunology and Allergy,Medicine,#e377c2,400,0.781895091867496,-0.20945888373891738,1

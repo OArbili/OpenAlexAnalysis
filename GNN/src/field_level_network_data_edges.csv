@@ -1,0 +1,20 @@
+source,target,weight,percent_growth
+Dentistry,Medicine,19.220500946044922,0.0
+Physics and Astronomy,Energy,13.920883178710938,0.0
+Physics and Astronomy,Engineering,35.31243324279785,0.0
+Physics and Astronomy,Medicine,12.678278923034668,0.0
+Engineering,Medicine,76.11900997161865,0.0
+Engineering,Energy,12.7667236328125,0.0
+Engineering,Neuroscience,11.009265899658203,0.0
+Engineering,Psychology,10.720940589904785,0.0
+Engineering,"Biochemistry, Genetics and Molecular Biology",10.713471412658691,0.0
+Engineering,Materials Science,10.23187255859375,0.0
+Engineering,Environmental Science,9.689702987670898,0.0
+Immunology and Microbiology,Medicine,54.39445209503174,0.0
+Immunology and Microbiology,Neuroscience,10.262455940246582,0.0
+"Biochemistry, Genetics and Molecular Biology",Medicine,40.902889251708984,0.0
+"Biochemistry, Genetics and Molecular Biology","Economics, Econometrics and Finance",10.020248413085938,0.0
+Neuroscience,Medicine,39.24379253387451,0.0
+Medicine,Materials Science,30.6747989654541,0.0
+Medicine,Psychology,19.537489891052246,0.0
+Energy,Environmental Science,9.939546585083008,0.0

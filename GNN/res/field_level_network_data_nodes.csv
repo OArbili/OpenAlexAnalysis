@@ -1,0 +1,13 @@
+node_id,node_name,field,color,size,x_position,y_position,degree
+Dentistry,Dentistry,Unknown,#1f77b4,884.4100189208984,0.5036589531225821,0.2285798586635773,1
+Physics and Astronomy,Physics and Astronomy,Unknown,#ff7f0e,1738.2319068908691,0.0008156662203320592,-0.41563539228971413,3
+Engineering,Engineering,Unknown,#2ca02c,4031.2684059143066,-0.06971420005166944,-0.17463800338233698,8
+Immunology and Microbiology,Immunology and Microbiology,Unknown,#d62728,1793.1381607055664,-0.11828840234824027,0.36548624350890246,2
+"Biochemistry, Genetics and Molecular Biology","Biochemistry, Genetics and Molecular Biology",Unknown,#9467bd,1732.7321815490723,0.16026524034099646,0.38825857541845743,3
+Neuroscience,Neuroscience,Unknown,#8c564b,1710.310287475586,-0.27851858832848847,0.19715216481662096,3
+Medicine,Medicine,Unknown,#e377c2,6355.4242515563965,0.00271780856366164,0.08476005522585627,8
+Materials Science,Materials Science,Unknown,#7f7f7f,1318.133430480957,-0.37061013451057745,-0.04565479950185246,2
+"Economics, Econometrics and Finance","Economics, Econometrics and Finance",Unknown,#bcbd22,700.4049682617188,0.36598496868261327,1.0,1
+Psychology,Psychology,Unknown,#17becf,1105.1686096191406,0.34521882429930595,-0.16856836347136384,2
+Energy,Energy,Unknown,#aec7e8,1232.543067932129,-0.10572240911335058,-0.7184009767733196,3
+Environmental Science,Environmental Science,Unknown,#ffbb78,892.5849914550781,-0.4358077268771666,-0.7413393622148268,2

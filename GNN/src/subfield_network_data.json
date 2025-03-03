@@ -1,0 +1,683 @@
+{
+  "graph_data": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "field": "Materials Science",
+        "id": "Materials Chemistry"
+      },
+      {
+        "field": "Medicine",
+        "id": "Oncology"
+      },
+      {
+        "field": "Medicine",
+        "id": "Pulmonary and Respiratory Medicine"
+      },
+      {
+        "field": "Energy",
+        "id": "Renewable Energy, Sustainability and the Environment"
+      },
+      {
+        "field": "Physics and Astronomy",
+        "id": "Atomic and Molecular Physics, and Optics"
+      },
+      {
+        "field": "Engineering",
+        "id": "Electrical and Electronic Engineering"
+      },
+      {
+        "field": "Physics and Astronomy",
+        "id": "Instrumentation"
+      },
+      {
+        "field": "Engineering",
+        "id": "Automotive Engineering"
+      },
+      {
+        "field": "Medicine",
+        "id": "Surgery"
+      },
+      {
+        "field": "Immunology and Microbiology",
+        "id": "Immunology"
+      },
+      {
+        "field": "Medicine",
+        "id": "Endocrinology, Diabetes and Metabolism"
+      },
+      {
+        "field": "Medicine",
+        "id": "Cardiology and Cardiovascular Medicine"
+      },
+      {
+        "field": "Biochemistry, Genetics and Molecular Biology",
+        "id": "Cancer Research"
+      },
+      {
+        "field": "Medicine",
+        "id": "Hepatology"
+      },
+      {
+        "field": "Engineering",
+        "id": "Biomedical Engineering"
+      },
+      {
+        "field": "Physics and Astronomy",
+        "id": "Nuclear and High Energy Physics"
+      },
+      {
+        "field": "Medicine",
+        "id": "Epidemiology"
+      },
+      {
+        "field": "Neuroscience",
+        "id": "Developmental Neuroscience"
+      },
+      {
+        "field": "Medicine",
+        "id": "Ophthalmology"
+      },
+      {
+        "field": "Neuroscience",
+        "id": "Endocrine and Autonomic Systems"
+      },
+      {
+        "field": "Psychology",
+        "id": "Social Psychology"
+      },
+      {
+        "field": "Medicine",
+        "id": "Public Health, Environmental and Occupational Health"
+      },
+      {
+        "field": "Medicine",
+        "id": "Rehabilitation"
+      },
+      {
+        "field": "Neuroscience",
+        "id": "Biological Psychiatry"
+      },
+      {
+        "field": "Medicine",
+        "id": "Transplantation"
+      },
+      {
+        "field": "Economics, Econometrics and Finance",
+        "id": "Economics and Econometrics"
+      },
+      {
+        "field": "Psychology",
+        "id": "Clinical Psychology"
+      },
+      {
+        "field": "Medicine",
+        "id": "Psychiatry and Mental health"
+      },
+      {
+        "field": "Neuroscience",
+        "id": "Cellular and Molecular Neuroscience"
+      },
+      {
+        "field": "Environmental Science",
+        "id": "Pollution"
+      },
+      {
+        "field": "Medicine",
+        "id": "Otorhinolaryngology"
+      },
+      {
+        "field": "Environmental Science",
+        "id": "Health, Toxicology and Mutagenesis"
+      },
+      {
+        "field": "Medicine",
+        "id": "Radiology, Nuclear Medicine and Imaging"
+      },
+      {
+        "field": "Medicine",
+        "id": "Infectious Diseases"
+      },
+      {
+        "field": "Dentistry",
+        "id": "Periodontics"
+      },
+      {
+        "field": "Psychology",
+        "id": "Experimental and Cognitive Psychology"
+      },
+      {
+        "field": "Medicine",
+        "id": "Immunology and Allergy"
+      }
+    ],
+    "links": [
+      {
+        "weight": 15.414255142211914,
+        "percent_growth": 513.8085047403972,
+        "source": "Materials Chemistry",
+        "target": "Oncology"
+      },
+      {
+        "weight": 15.260543823242188,
+        "percent_growth": 508.68479410807294,
+        "source": "Materials Chemistry",
+        "target": "Pulmonary and Respiratory Medicine"
+      },
+      {
+        "weight": 10.23187255859375,
+        "percent_growth": 127.89840698242188,
+        "source": "Materials Chemistry",
+        "target": "Automotive Engineering"
+      },
+      {
+        "weight": 10.014589309692383,
+        "percent_growth": 333.8196436564128,
+        "source": "Oncology",
+        "target": "Clinical Psychology"
+      },
+      {
+        "weight": 13.00615119934082,
+        "percent_growth": 325.1537799835205,
+        "source": "Pulmonary and Respiratory Medicine",
+        "target": "Electrical and Electronic Engineering"
+      },
+      {
+        "weight": 13.920883178710938,
+        "percent_growth": 464.02943929036456,
+        "source": "Renewable Energy, Sustainability and the Environment",
+        "target": "Atomic and Molecular Physics, and Optics"
+      },
+      {
+        "weight": 12.7667236328125,
+        "percent_growth": 319.1680908203125,
+        "source": "Renewable Energy, Sustainability and the Environment",
+        "target": "Automotive Engineering"
+      },
+      {
+        "weight": 9.939546585083008,
+        "percent_growth": 248.4886646270752,
+        "source": "Renewable Energy, Sustainability and the Environment",
+        "target": "Pollution"
+      },
+      {
+        "weight": 12.678278923034668,
+        "percent_growth": 422.60929743448895,
+        "source": "Atomic and Molecular Physics, and Optics",
+        "target": "Cardiology and Cardiovascular Medicine"
+      },
+      {
+        "weight": 13.770811080932617,
+        "percent_growth": 459.0270360310872,
+        "source": "Electrical and Electronic Engineering",
+        "target": "Instrumentation"
+      },
+      {
+        "weight": 9.770811080932617,
+        "percent_growth": 139.58301544189453,
+        "source": "Electrical and Electronic Engineering",
+        "target": "Nuclear and High Energy Physics"
+      },
+      {
+        "weight": 9.68722152709961,
+        "percent_growth": 193.7444305419922,
+        "source": "Electrical and Electronic Engineering",
+        "target": "Radiology, Nuclear Medicine and Imaging"
+      },
+      {
+        "weight": 9.11073112487793,
+        "percent_growth": 113.88413906097412,
+        "source": "Electrical and Electronic Engineering",
+        "target": "Cardiology and Cardiovascular Medicine"
+      },
+      {
+        "weight": 13.341215133666992,
+        "percent_growth": 444.7071711222331,
+        "source": "Automotive Engineering",
+        "target": "Surgery"
+      },
+      {
+        "weight": 10.720940589904785,
+        "percent_growth": 268.02351474761963,
+        "source": "Automotive Engineering",
+        "target": "Social Psychology"
+      },
+      {
+        "weight": 9.689702987670898,
+        "percent_growth": 322.99009958902997,
+        "source": "Automotive Engineering",
+        "target": "Health, Toxicology and Mutagenesis"
+      },
+      {
+        "weight": 9.023702621459961,
+        "percent_growth": 300.7900873819987,
+        "source": "Surgery",
+        "target": "Endocrine and Autonomic Systems"
+      },
+      {
+        "weight": 13.051647186279297,
+        "percent_growth": 435.0549062093099,
+        "source": "Immunology",
+        "target": "Endocrinology, Diabetes and Metabolism"
+      },
+      {
+        "weight": 10.901164054870605,
+        "percent_growth": 363.3721351623535,
+        "source": "Immunology",
+        "target": "Ophthalmology"
+      },
+      {
+        "weight": 10.415233612060547,
+        "percent_growth": 347.17445373535156,
+        "source": "Immunology",
+        "target": "Rehabilitation"
+      },
+      {
+        "weight": 10.262455940246582,
+        "percent_growth": 342.08186467488605,
+        "source": "Immunology",
+        "target": "Biological Psychiatry"
+      },
+      {
+        "weight": 10.02025032043457,
+        "percent_growth": 334.00834401448566,
+        "source": "Immunology",
+        "target": "Transplantation"
+      },
+      {
+        "weight": 10.006156921386719,
+        "percent_growth": 250.15392303466797,
+        "source": "Immunology",
+        "target": "Psychiatry and Mental health"
+      },
+      {
+        "weight": 10.051641464233398,
+        "percent_growth": 167.5273577372233,
+        "source": "Endocrinology, Diabetes and Metabolism",
+        "target": "Cancer Research"
+      },
+      {
+        "weight": 9.366549491882324,
+        "percent_growth": 234.1637372970581,
+        "source": "Endocrinology, Diabetes and Metabolism",
+        "target": "Endocrine and Autonomic Systems"
+      },
+      {
+        "weight": 9.990675926208496,
+        "percent_growth": 249.7668981552124,
+        "source": "Cardiology and Cardiovascular Medicine",
+        "target": "Cellular and Molecular Neuroscience"
+      },
+      {
+        "weight": 11.897128105163574,
+        "percent_growth": 297.42820262908936,
+        "source": "Cancer Research",
+        "target": "Hepatology"
+      },
+      {
+        "weight": 10.713471412658691,
+        "percent_growth": 214.2694282531738,
+        "source": "Cancer Research",
+        "target": "Biomedical Engineering"
+      },
+      {
+        "weight": 10.020248413085938,
+        "percent_growth": 334.00828043619794,
+        "source": "Cancer Research",
+        "target": "Economics and Econometrics"
+      },
+      {
+        "weight": 9.933516502380371,
+        "percent_growth": 248.33791255950928,
+        "source": "Cancer Research",
+        "target": "Otorhinolaryngology"
+      },
+      {
+        "weight": 9.02060317993164,
+        "percent_growth": 225.51507949829102,
+        "source": "Cancer Research",
+        "target": "Immunology and Allergy"
+      },
+      {
+        "weight": 11.770811080932617,
+        "percent_growth": 235.41622161865234,
+        "source": "Biomedical Engineering",
+        "target": "Nuclear and High Energy Physics"
+      },
+      {
+        "weight": 11.178796768188477,
+        "percent_growth": 186.31327946980795,
+        "source": "Biomedical Engineering",
+        "target": "Epidemiology"
+      },
+      {
+        "weight": 11.009265899658203,
+        "percent_growth": 366.97552998860675,
+        "source": "Biomedical Engineering",
+        "target": "Developmental Neuroscience"
+      },
+      {
+        "weight": 10.695473670959473,
+        "percent_growth": 356.5157890319824,
+        "source": "Biomedical Engineering",
+        "target": "Public Health, Environmental and Occupational Health"
+      },
+      {
+        "weight": 9.099420547485352,
+        "percent_growth": 181.988410949707,
+        "source": "Biomedical Engineering",
+        "target": "Rehabilitation"
+      },
+      {
+        "weight": 10.86286449432373,
+        "percent_growth": 362.09548314412433,
+        "source": "Epidemiology",
+        "target": "Endocrine and Autonomic Systems"
+      },
+      {
+        "weight": 9.605768203735352,
+        "percent_growth": 320.19227345784503,
+        "source": "Epidemiology",
+        "target": "Periodontics"
+      },
+      {
+        "weight": 9.522900581359863,
+        "percent_growth": 238.07251453399658,
+        "source": "Epidemiology",
+        "target": "Experimental and Cognitive Psychology"
+      },
+      {
+        "weight": 9.61473274230957,
+        "percent_growth": 320.49109141031903,
+        "source": "Infectious Diseases",
+        "target": "Periodontics"
+      }
+    ]
+  },
+  "pos": {
+    "Materials Chemistry": [
+      -0.47040002732873204,
+      0.29040607603305335
+    ],
+    "Oncology": [
+      -0.5043666089902002,
+      0.5135850274251789
+    ],
+    "Pulmonary and Respiratory Medicine": [
+      -0.4463153501487268,
+      0.3699298810188243
+    ],
+    "Renewable Energy, Sustainability and the Environment": [
+      -0.7614446207338138,
+      -0.05043828284116149
+    ],
+    "Atomic and Molecular Physics, and Optics": [
+      -0.8713636806145557,
+      0.06503831955998164
+    ],
+    "Electrical and Electronic Engineering": [
+      -0.48263853575844634,
+      0.235610978798784
+    ],
+    "Instrumentation": [
+      -0.582117707615641,
+      0.3631657734600307
+    ],
+    "Automotive Engineering": [
+      -0.4999441949285629,
+      -0.014621384737014407
+    ],
+    "Surgery": [
+      -0.21179746145358247,
+      -0.05163251961427467
+    ],
+    "Immunology": [
+      0.5122954848623582,
+      -0.5180472768964711
+    ],
+    "Endocrinology, Diabetes and Metabolism": [
+      0.4267626414650787,
+      -0.2538816932851067
+    ],
+    "Cardiology and Cardiovascular Medicine": [
+      -0.7990808103016781,
+      0.21153326314517498
+    ],
+    "Cancer Research": [
+      0.606625778122825,
+      -0.09432434358896293
+    ],
+    "Hepatology": [
+      0.7233160534199299,
+      0.024540128669393802
+    ],
+    "Biomedical Engineering": [
+      0.2771363967395799,
+      -0.02688237984630639
+    ],
+    "Nuclear and High Energy Physics": [
+      -0.08571404817000582,
+      0.10842682442286858
+    ],
+    "Epidemiology": [
+      0.2913880204120333,
+      0.17687906953195975
+    ],
+    "Developmental Neuroscience": [
+      0.3970014768847874,
+      0.052556975319912436
+    ],
+    "Ophthalmology": [
+      0.4546258060597579,
+      -0.6885455016599753
+    ],
+    "Endocrine and Autonomic Systems": [
+      0.14791379995385895,
+      -0.05300677922303757
+    ],
+    "Social Psychology": [
+      -0.6199425172730975,
+      -0.13965248420216925
+    ],
+    "Public Health, Environmental and Occupational Health": [
+      0.237806390381609,
+      -0.1606889451514435
+    ],
+    "Rehabilitation": [
+      0.37921226950371945,
+      -0.3164278888899971
+    ],
+    "Biological Psychiatry": [
+      0.635007385325648,
+      -0.6797556983935715
+    ],
+    "Transplantation": [
+      0.550967775416193,
+      -0.7300529674939613
+    ],
+    "Economics and Econometrics": [
+      0.8140865260043283,
+      -0.017121964022024098
+    ],
+    "Clinical Psychology": [
+      -0.5558684480423893,
+      0.707513915324607
+    ],
+    "Psychiatry and Mental health": [
+      0.6922047783711379,
+      -0.5985564041234905
+    ],
+    "Cellular and Molecular Neuroscience": [
+      -1.0,
+      0.2775838443571508
+    ],
+    "Pollution": [
+      -0.9403641126563314,
+      -0.15611389091201663
+    ],
+    "Otorhinolaryngology": [
+      0.815749679295308,
+      -0.11566846255990329
+    ],
+    "Health, Toxicology and Mutagenesis": [
+      -0.533184042906605,
+      -0.20277149940496883
+    ],
+    "Radiology, Nuclear Medicine and Imaging": [
+      -0.6718366603602887,
+      0.33175317796810017
+    ],
+    "Infectious Diseases": [
+      0.543984509211601,
+      0.5852452781627474
+    ],
+    "Periodontics": [
+      0.43898579065215476,
+      0.4124141983080381
+    ],
+    "Experimental and Cognitive Psychology": [
+      0.30941317333325075,
+      0.3514665190789685
+    ],
+    "Immunology and Allergy": [
+      0.781895091867496,
+      -0.20945888373891738
+    ]
+  },
+  "node_colors": [
+    "#7f7f7f",
+    "#e377c2",
+    "#e377c2",
+    "#aec7e8",
+    "#ff7f0e",
+    "#2ca02c",
+    "#ff7f0e",
+    "#2ca02c",
+    "#e377c2",
+    "#d62728",
+    "#e377c2",
+    "#e377c2",
+    "#9467bd",
+    "#e377c2",
+    "#2ca02c",
+    "#ff7f0e",
+    "#e377c2",
+    "#8c564b",
+    "#e377c2",
+    "#8c564b",
+    "#17becf",
+    "#e377c2",
+    "#e377c2",
+    "#8c564b",
+    "#e377c2",
+    "#bcbd22",
+    "#17becf",
+    "#e377c2",
+    "#8c564b",
+    "#ffbb78",
+    "#e377c2",
+    "#ffbb78",
+    "#e377c2",
+    "#e377c2",
+    "#1f77b4",
+    "#17becf",
+    "#e377c2"
+  ],
+  "edge_weights": [
+    1.3990750866346162,
+    1.3943707745121132,
+    1.2093777504700196,
+    1.1996103474596984,
+    1.3197483022507022,
+    1.3513808936536387,
+    1.3111271746335054,
+    1.1961921752650493,
+    1.3079045472800048,
+    1.3463265045568016,
+    1.188419898805745,
+    1.18452438898976,
+    1.1567986737092082,
+    1.3315687844681046,
+    1.2306885180199636,
+    1.1846404702614475,
+    1.1524762752498345,
+    1.3213698131827911,
+    1.2383181075352354,
+    1.2174743725651282,
+    1.2107373554255145,
+    1.19986725928487,
+    1.1992274181697762,
+    1.201289482865442,
+    1.1692921137096697,
+    1.1985236351369437,
+    1.2785023295378724,
+    1.2303697911196172,
+    1.1998671727465091,
+    1.1959164899240757,
+    1.152321645721442,
+    1.2735810912937973,
+    1.2498482349484463,
+    1.2428392550659995,
+    1.2296009506109493,
+    1.1562390253326502,
+    1.2367064450333132,
+    1.180699011637421,
+    1.1767769449835959,
+    1.1811214587384713
+  ],
+  "node_sizes": [
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0
+  ],
+  "field_colors": {
+    "Dentistry": "#1f77b4",
+    "Physics and Astronomy": "#ff7f0e",
+    "Engineering": "#2ca02c",
+    "Immunology and Microbiology": "#d62728",
+    "Biochemistry, Genetics and Molecular Biology": "#9467bd",
+    "Neuroscience": "#8c564b",
+    "Medicine": "#e377c2",
+    "Materials Science": "#7f7f7f",
+    "Economics, Econometrics and Finance": "#bcbd22",
+    "Psychology": "#17becf",
+    "Energy": "#aec7e8",
+    "Environmental Science": "#ffbb78"
+  }
+}
