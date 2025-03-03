@@ -21,7 +21,7 @@ OpenAlexAnalysis/
 ├── GNN/                           # Graph Neural Network implementation for prediction
 ├── download_with_writers.py       # Script for downloading data with writer information
 ├── downloads.py                   # Core data download utilities
-└── run.ipynb                      # Jupyter notebook for downloading data
+└── run_download.ipynb                      # Jupyter notebook for downloading data
 ```
 
 ## Key Features
