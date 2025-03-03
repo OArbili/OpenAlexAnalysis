@@ -1,0 +1,16 @@
+field,num_papers,num_authors,num_collaborations,network_density,avg_clustering,largest_component_size,num_communities
+Agricultural and Biological Sciences,3,4,2,0.3333333333333333,0.0,2,2
+Computer Science,12,30,70,0.16091954022988506,0.6111111111111112,10,8
+Energy,3,10,21,0.4666666666666667,1.0,6,2
+Engineering,9,22,50,0.21645021645021645,0.7987012987012986,9,5
+"Business, Management and Accounting",1,2,1,1.0,0.0,2,1
+"Biochemistry, Genetics and Molecular Biology",9,40,171,0.21923076923076923,0.8628496503496503,17,7
+Environmental Science,5,85,2698,0.7557422969187675,0.8901563663440057,81,4
+Medicine,50,319,7280,0.14353029317245322,0.9154845809000491,147,19
+Earth and Planetary Sciences,1,2,3,3.0,0.0,2,1
+Physics and Astronomy,11,200,8215,0.4128140703517588,0.9843976212587725,193,6
+"Economics, Econometrics and Finance",2,5,4,0.4,0.6,3,2
+Immunology and Microbiology,1,2,1,1.0,0.0,2,1
+Decision Sciences,2,2,1,1.0,0.0,2,1
+Health Professions,3,123,6093,0.8120751699320272,0.9331274469275103,120,3
+Neuroscience,3,15,105,1.0,1.0,15,1

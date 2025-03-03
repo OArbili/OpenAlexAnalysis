@@ -1,0 +1,8 @@
+Analysis parameters:
+File: articles_2024_with_writers/all_articles_w_writers.jsonl
+Debug mode: Yes
+Sample size: 500
+Min articles per author: 2
+Total articles analyzed: 115
+Total authors: 640
+Total collaborations: 18568

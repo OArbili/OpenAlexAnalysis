@@ -1,0 +1,2 @@
+period_start,period_end,num_papers,num_authors,num_collaborations,network_density,avg_clustering,largest_component_size,avg_degree
+2024-01-31,2024-07-31,11971,12541,178552,0.00227072745255212,0.5834145571277336,12149,28.474922255003587
