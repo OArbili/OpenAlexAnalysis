@@ -1,0 +1,3138 @@
+{
+  "nodes": [
+    {
+      "id": "Jun Chen",
+      "label": "J. Chen",
+      "degree": 16,
+      "field": "Engineering"
+    },
+    {
+      "id": "Hui Wang",
+      "label": "H. Wang",
+      "degree": 20,
+      "field": "Medicine"
+    },
+    {
+      "id": "Fan Yang",
+      "label": "F. Yang",
+      "degree": 13,
+      "field": "Engineering"
+    },
+    {
+      "id": "Yang Liu",
+      "label": "Y. Liu",
+      "degree": 28,
+      "field": "Medicine"
+    },
+    {
+      "id": "Jun Wang",
+      "label": "J. Wang",
+      "degree": 24,
+      "field": "Medicine"
+    },
+    {
+      "id": "Ying Wang",
+      "label": "Y. Wang",
+      "degree": 22,
+      "field": "Medicine"
+    },
+    {
+      "id": "Li Li",
+      "label": "L. Li",
+      "degree": 20,
+      "field": "Medicine"
+    },
+    {
+      "id": "P. Albicocco",
+      "label": "P. Albicocco",
+      "degree": 6,
+      "field": "Physics and Astronomy"
+    },
+    {
+      "id": "Yan Wang",
+      "label": "Y. Wang",
+      "degree": 22,
+      "field": "Medicine"
+    },
+    {
+      "id": "Yang Gao",
+      "label": "Y. Gao",
+      "degree": 14,
+      "field": "Physics and Astronomy"
+    },
+    {
+      "id": "Xin Wang",
+      "label": "X. Wang",
+      "degree": 22,
+      "field": "Physics and Astronomy"
+    },
+    {
+      "id": "Jian Wang",
+      "label": "J. Wang",
+      "degree": 26,
+      "field": "Engineering"
+    },
+    {
+      "id": "Wei Chen",
+      "label": "W. Chen",
+      "degree": 30,
+      "field": "Engineering"
+    },
+    {
+      "id": "Xin Li",
+      "label": "X. Li",
+      "degree": 18,
+      "field": "Engineering"
+    },
+    {
+      "id": "Li Wang",
+      "label": "L. Wang",
+      "degree": 22,
+      "field": "Medicine"
+    },
+    {
+      "id": "B. Ali",
+      "label": "B. Ali",
+      "degree": 4,
+      "field": "Physics and Astronomy"
+    },
+    {
+      "id": "Hui Zhang",
+      "label": "H. Zhang",
+      "degree": 17,
+      "field": "Medicine"
+    },
+    {
+      "id": "Qi Zhang",
+      "label": "Q. Zhang",
+      "degree": 17,
+      "field": "Medicine"
+    },
+    {
+      "id": "R. Farinelli",
+      "label": "R. Farinelli",
+      "degree": 7,
+      "field": "Physics and Astronomy"
+    },
+    {
+      "id": "Yu Zhang",
+      "label": "Y. Zhang",
+      "degree": 28,
+      "field": "Medicine"
+    },
+    {
+      "id": "Jun Li",
+      "label": "J. Li",
+      "degree": 16,
+      "field": "Medicine"
+    },
+    {
+      "id": "Lei Zhang",
+      "label": "L. Zhang",
+      "degree": 22,
+      "field": "Medicine"
+    },
+    {
+      "id": "Wei Li",
+      "label": "W. Li",
+      "degree": 27,
+      "field": "Engineering"
+    },
+    {
+      "id": "Jing Li",
+      "label": "J. Li",
+      "degree": 31,
+      "field": "Medicine"
+    },
+    {
+      "id": "Wei Wang",
+      "label": "W. Wang",
+      "degree": 29,
+      "field": "Medicine"
+    },
+    {
+      "id": "Yu Chen",
+      "label": "Y. Chen",
+      "degree": 16,
+      "field": "Medicine"
+    },
+    {
+      "id": "Chen Chen",
+      "label": "C. Chen",
+      "degree": 23,
+      "field": "Computer Science"
+    },
+    {
+      "id": "D. Andreou",
+      "label": "D. Andreou",
+      "degree": 5,
+      "field": "Physics and Astronomy"
+    },
+    {
+      "id": "C. Agapopoulou",
+      "label": "C. Agapopoulou",
+      "degree": 6,
+      "field": "Physics and Astronomy"
+    },
+    {
+      "id": "Hao Li",
+      "label": "H. Li",
+      "degree": 18,
+      "field": "Medicine"
+    },
+    {
+      "id": "X. Ai",
+      "label": "X. Ai",
+      "degree": 8,
+      "field": "Physics and Astronomy"
+    },
+    {
+      "id": "V. Batozskaya",
+      "label": "V. Batozskaya",
+      "degree": 9,
+      "field": "Physics and Astronomy"
+    },
+    {
+      "id": "Li Zhang",
+      "label": "L. Zhang",
+      "degree": 20,
+      "field": "Medicine"
+    },
+    {
+      "id": "Jing Wang",
+      "label": "J. Wang",
+      "degree": 26,
+      "field": "Medicine"
+    },
+    {
+      "id": "Yan Zhang",
+      "label": "Y. Zhang",
+      "degree": 20,
+      "field": "Medicine"
+    },
+    {
+      "id": "Yang Li",
+      "label": "Y. Li",
+      "degree": 25,
+      "field": "Biochemistry, Genetics and Molecular Biology"
+    },
+    {
+      "id": "Yan Li",
+      "label": "Y. Li",
+      "degree": 22,
+      "field": "Medicine"
+    },
+    {
+      "id": "Rui Wang",
+      "label": "R. Wang",
+      "degree": 15,
+      "field": "Medicine"
+    },
+    {
+      "id": "Tao Wang",
+      "label": "T. Wang",
+      "degree": 27,
+      "field": "Medicine"
+    },
+    {
+      "id": "Wei Liu",
+      "label": "W. Liu",
+      "degree": 21,
+      "field": "Medicine"
+    },
+    {
+      "id": "P. Adlarson",
+      "label": "P. Adlarson",
+      "degree": 9,
+      "field": "Physics and Astronomy"
+    },
+    {
+      "id": "Hui Li",
+      "label": "H. Li",
+      "degree": 22,
+      "field": "Medicine"
+    },
+    {
+      "id": "Hao Wang",
+      "label": "H. Wang",
+      "degree": 24,
+      "field": "Medicine"
+    },
+    {
+      "id": "Jun Zhang",
+      "label": "J. Zhang",
+      "degree": 21,
+      "field": "Medicine"
+    },
+    {
+      "id": "Yang Yang",
+      "label": "Y. Yang",
+      "degree": 22,
+      "field": "Engineering"
+    },
+    {
+      "id": "Chao Chen",
+      "label": "C. Chen",
+      "degree": 17,
+      "field": "Physics and Astronomy"
+    },
+    {
+      "id": "Yu Wang",
+      "label": "Y. Wang",
+      "degree": 24,
+      "field": "Biochemistry, Genetics and Molecular Biology"
+    },
+    {
+      "id": "Lei Wang",
+      "label": "L. Wang",
+      "degree": 24,
+      "field": "Engineering"
+    },
+    {
+      "id": "Jing Zhang",
+      "label": "J. Zhang",
+      "degree": 23,
+      "field": "Medicine"
+    },
+    {
+      "id": "Wei Zhang",
+      "label": "W. Zhang",
+      "degree": 34,
+      "field": "Medicine"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Jun Chen",
+      "target": "Hao Li",
+      "weight": 4
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Lei Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Yang Liu",
+      "weight": 1
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Ying Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Yan Li",
+      "weight": 1
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Yang Li",
+      "weight": 1
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Wei Chen",
+      "weight": 1
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Yu Chen",
+      "weight": 1
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Xin Li",
+      "weight": 1
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Yan Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Yu Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Wei Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Chen",
+      "target": "Hui Wang",
+      "weight": 1
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Yan Li",
+      "weight": 2
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Qi Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Yan Wang",
+      "weight": 1
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Jun Li",
+      "weight": 3
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Jian Wang",
+      "weight": 1
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Yang Yang",
+      "weight": 6
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Yang Li",
+      "weight": 2
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Wei Liu",
+      "weight": 1
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Yu Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Rui Wang",
+      "weight": 1
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Jing Wang",
+      "weight": 1
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Wei Chen",
+      "weight": 1
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Jing Li",
+      "weight": 1
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Wei Zhang",
+      "weight": 3
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Hui Li",
+      "weight": 1
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Yan Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Hui Wang",
+      "target": "Hui Wang",
+      "weight": 1
+    },
+    {
+      "source": "Fan Yang",
+      "target": "Xin Li",
+      "weight": 2
+    },
+    {
+      "source": "Fan Yang",
+      "target": "Li Li",
+      "weight": 1
+    },
+    {
+      "source": "Fan Yang",
+      "target": "Jing Li",
+      "weight": 3
+    },
+    {
+      "source": "Fan Yang",
+      "target": "Li Wang",
+      "weight": 2
+    },
+    {
+      "source": "Fan Yang",
+      "target": "Wei Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Fan Yang",
+      "target": "Jun Li",
+      "weight": 3
+    },
+    {
+      "source": "Fan Yang",
+      "target": "Hui Li",
+      "weight": 1
+    },
+    {
+      "source": "Fan Yang",
+      "target": "Lei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Fan Yang",
+      "target": "Jian Wang",
+      "weight": 1
+    },
+    {
+      "source": "Fan Yang",
+      "target": "Chen Chen",
+      "weight": 1
+    },
+    {
+      "source": "Fan Yang",
+      "target": "Yu Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Fan Yang",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Fan Yang",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Xin Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Jing Li",
+      "weight": 3
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Jian Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Wei Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Jun Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Yu Chen",
+      "weight": 3
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Wei Wang",
+      "weight": 5
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Qi Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Yan Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Lei Wang",
+      "weight": 2
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Wei Chen",
+      "weight": 2
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Jun Wang",
+      "weight": 2
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Tao Wang",
+      "weight": 3
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Rui Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Jun Li",
+      "weight": 3
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Li Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Lei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Li Li",
+      "weight": 1
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Yang Liu",
+      "weight": 1
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Xin Li",
+      "weight": 1
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Chen Chen",
+      "weight": 2
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Yang Li",
+      "weight": 1
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Yan Li",
+      "weight": 1
+    },
+    {
+      "source": "Yang Liu",
+      "target": "Li Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Chen Chen",
+      "weight": 3
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Yang Yang",
+      "weight": 2
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Wei Liu",
+      "weight": 3
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Jun Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Yang Li",
+      "weight": 3
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Wei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Jing Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Yan Zhang",
+      "weight": 3
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Tao Wang",
+      "weight": 3
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Jing Li",
+      "weight": 2
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Yan Li",
+      "weight": 1
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Ying Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Lei Wang",
+      "weight": 5
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Yu Chen",
+      "weight": 4
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Wei Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Lei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Yan Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Jian Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Li Li",
+      "weight": 1
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Yu Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Jun Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Wang",
+      "target": "Li Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Wei Li",
+      "weight": 2
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Ying Wang",
+      "weight": 1
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Xin Wang",
+      "weight": 1
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Yu Chen",
+      "weight": 2
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Jing Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Jing Li",
+      "weight": 2
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Yan Li",
+      "weight": 2
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Lei Zhang",
+      "weight": 3
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Yang Li",
+      "weight": 5
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Yu Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Hui Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Yan Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Jian Wang",
+      "weight": 1
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Hui Li",
+      "weight": 1
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Qi Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Ying Wang",
+      "target": "Hao Li",
+      "weight": 1
+    },
+    {
+      "source": "Li Li",
+      "target": "Lei Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Li Li",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Li Li",
+      "target": "Xin Wang",
+      "weight": 2
+    },
+    {
+      "source": "Li Li",
+      "target": "Li Wang",
+      "weight": 2
+    },
+    {
+      "source": "Li Li",
+      "target": "Lei Wang",
+      "weight": 2
+    },
+    {
+      "source": "Li Li",
+      "target": "Tao Wang",
+      "weight": 2
+    },
+    {
+      "source": "Li Li",
+      "target": "Wei Wang",
+      "weight": 2
+    },
+    {
+      "source": "Li Li",
+      "target": "Yang Li",
+      "weight": 1
+    },
+    {
+      "source": "Li Li",
+      "target": "Jing Li",
+      "weight": 2
+    },
+    {
+      "source": "Li Li",
+      "target": "Li Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Li Li",
+      "target": "Wei Liu",
+      "weight": 2
+    },
+    {
+      "source": "Li Li",
+      "target": "Qi Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Li Li",
+      "target": "Jing Wang",
+      "weight": 1
+    },
+    {
+      "source": "Li Li",
+      "target": "Yu Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Li Li",
+      "target": "Wei Chen",
+      "weight": 1
+    },
+    {
+      "source": "Li Li",
+      "target": "Yan Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Li Li",
+      "target": "Jun Zhang",
+      "weight": 1
+    },
+    {
+      "source": "P. Albicocco",
+      "target": "P. Adlarson",
+      "weight": 23
+    },
+    {
+      "source": "P. Albicocco",
+      "target": "C. Agapopoulou",
+      "weight": 32
+    },
+    {
+      "source": "P. Albicocco",
+      "target": "D. Andreou",
+      "weight": 23
+    },
+    {
+      "source": "P. Albicocco",
+      "target": "X. Ai",
+      "weight": 97
+    },
+    {
+      "source": "P. Albicocco",
+      "target": "B. Ali",
+      "weight": 97
+    },
+    {
+      "source": "P. Albicocco",
+      "target": "V. Batozskaya",
+      "weight": 2
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Hui Li",
+      "weight": 1
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Qi Zhang",
+      "weight": 3
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Wei Wang",
+      "weight": 2
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Lei Zhang",
+      "weight": 3
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Lei Wang",
+      "weight": 2
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Rui Wang",
+      "weight": 2
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Wei Li",
+      "weight": 2
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Jing Wang",
+      "weight": 4
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Jing Li",
+      "weight": 1
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Xin Wang",
+      "weight": 2
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Li Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Yang Yang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Yu Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Li Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Yang Li",
+      "weight": 1
+    },
+    {
+      "source": "Yan Wang",
+      "target": "Hui Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Gao",
+      "target": "P. Adlarson",
+      "weight": 70
+    },
+    {
+      "source": "Yang Gao",
+      "target": "V. Batozskaya",
+      "weight": 70
+    },
+    {
+      "source": "Yang Gao",
+      "target": "R. Farinelli",
+      "weight": 70
+    },
+    {
+      "source": "Yang Gao",
+      "target": "Chao Chen",
+      "weight": 69
+    },
+    {
+      "source": "Yang Gao",
+      "target": "Yang Gao",
+      "weight": 25
+    },
+    {
+      "source": "Yang Gao",
+      "target": "Chen Chen",
+      "weight": 2
+    },
+    {
+      "source": "Yang Gao",
+      "target": "Yang Yang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Gao",
+      "target": "X. Ai",
+      "weight": 17
+    },
+    {
+      "source": "Yang Gao",
+      "target": "Lei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Gao",
+      "target": "Qi Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Gao",
+      "target": "Xin Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Gao",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Gao",
+      "target": "Jing Li",
+      "weight": 1
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Qi Zhang",
+      "weight": 4
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Wei Li",
+      "weight": 1
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Hui Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Yang Yang",
+      "weight": 1
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Wei Wang",
+      "weight": 9
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Rui Wang",
+      "weight": 2
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Wei Zhang",
+      "weight": 3
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Xin Li",
+      "weight": 1
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Yu Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Jing Wang",
+      "weight": 2
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Xin Wang",
+      "weight": 1
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Jing Li",
+      "weight": 2
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Jian Wang",
+      "weight": 1
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Jun Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Wei Chen",
+      "weight": 2
+    },
+    {
+      "source": "Xin Wang",
+      "target": "Yan Li",
+      "weight": 2
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Yu Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Chao Chen",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Chen Chen",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Jing Li",
+      "weight": 3
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Jun Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Wei Liu",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Yang Yang",
+      "weight": 2
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Qi Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Xin Li",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Wei Li",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Yan Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Li Wang",
+      "weight": 3
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Lei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Yang Li",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Yan Li",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jian Wang",
+      "target": "Hui Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Wei Wang",
+      "weight": 8
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Hui Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Li Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Li Wang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Xin Li",
+      "weight": 2
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Wei Liu",
+      "weight": 4
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Yu Chen",
+      "weight": 2
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Yang Li",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Yu Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Wei Zhang",
+      "weight": 4
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Yang Yang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Jing Wang",
+      "weight": 3
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Wei Chen",
+      "weight": 3
+    },
+    {
+      "source": "Wei Chen",
+      "target": "R. Farinelli",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Yan Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Jun Li",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Jing Li",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Chen Chen",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Lei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Rui Wang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Chen",
+      "target": "Lei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Xin Li",
+      "target": "Yang Li",
+      "weight": 2
+    },
+    {
+      "source": "Xin Li",
+      "target": "Yu Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Xin Li",
+      "target": "Jing Li",
+      "weight": 2
+    },
+    {
+      "source": "Xin Li",
+      "target": "Wei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Xin Li",
+      "target": "Yu Chen",
+      "weight": 2
+    },
+    {
+      "source": "Xin Li",
+      "target": "Yang Yang",
+      "weight": 1
+    },
+    {
+      "source": "Xin Li",
+      "target": "Wei Li",
+      "weight": 2
+    },
+    {
+      "source": "Xin Li",
+      "target": "Chen Chen",
+      "weight": 1
+    },
+    {
+      "source": "Xin Li",
+      "target": "Jing Wang",
+      "weight": 1
+    },
+    {
+      "source": "Xin Li",
+      "target": "Lei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Xin Li",
+      "target": "Jun Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Xin Li",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Li Wang",
+      "target": "Jing Li",
+      "weight": 1
+    },
+    {
+      "source": "Li Wang",
+      "target": "Wei Wang",
+      "weight": 2
+    },
+    {
+      "source": "Li Wang",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Li Wang",
+      "target": "Jun Li",
+      "weight": 5
+    },
+    {
+      "source": "Li Wang",
+      "target": "Lei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Li Wang",
+      "target": "Lei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Li Wang",
+      "target": "Chao Chen",
+      "weight": 1
+    },
+    {
+      "source": "Li Wang",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Li Wang",
+      "target": "Jing Wang",
+      "weight": 1
+    },
+    {
+      "source": "Li Wang",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Li Wang",
+      "target": "Li Wang",
+      "weight": 3
+    },
+    {
+      "source": "Li Wang",
+      "target": "Tao Wang",
+      "weight": 2
+    },
+    {
+      "source": "Li Wang",
+      "target": "Jun Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Li Wang",
+      "target": "Yan Li",
+      "weight": 1
+    },
+    {
+      "source": "Li Wang",
+      "target": "Li Zhang",
+      "weight": 1
+    },
+    {
+      "source": "B. Ali",
+      "target": "D. Andreou",
+      "weight": 1
+    },
+    {
+      "source": "B. Ali",
+      "target": "C. Agapopoulou",
+      "weight": 12
+    },
+    {
+      "source": "B. Ali",
+      "target": "X. Ai",
+      "weight": 100
+    },
+    {
+      "source": "Hui Zhang",
+      "target": "Yang Li",
+      "weight": 3
+    },
+    {
+      "source": "Hui Zhang",
+      "target": "Jun Li",
+      "weight": 1
+    },
+    {
+      "source": "Hui Zhang",
+      "target": "Lei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Hui Zhang",
+      "target": "Jun Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Hui Zhang",
+      "target": "Wei Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Hui Zhang",
+      "target": "Hui Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Hui Zhang",
+      "target": "Wei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Hui Zhang",
+      "target": "Wei Li",
+      "weight": 2
+    },
+    {
+      "source": "Hui Zhang",
+      "target": "Jing Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Hui Zhang",
+      "target": "Li Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Hui Zhang",
+      "target": "Hui Li",
+      "weight": 1
+    },
+    {
+      "source": "Qi Zhang",
+      "target": "Yu Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Qi Zhang",
+      "target": "Wei Li",
+      "weight": 2
+    },
+    {
+      "source": "Qi Zhang",
+      "target": "Yang Li",
+      "weight": 1
+    },
+    {
+      "source": "Qi Zhang",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Qi Zhang",
+      "target": "Hui Li",
+      "weight": 2
+    },
+    {
+      "source": "Qi Zhang",
+      "target": "Chao Chen",
+      "weight": 1
+    },
+    {
+      "source": "Qi Zhang",
+      "target": "Yang Yang",
+      "weight": 2
+    },
+    {
+      "source": "Qi Zhang",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Qi Zhang",
+      "target": "Wei Liu",
+      "weight": 1
+    },
+    {
+      "source": "R. Farinelli",
+      "target": "P. Adlarson",
+      "weight": 46
+    },
+    {
+      "source": "R. Farinelli",
+      "target": "V. Batozskaya",
+      "weight": 46
+    },
+    {
+      "source": "R. Farinelli",
+      "target": "Chao Chen",
+      "weight": 45
+    },
+    {
+      "source": "R. Farinelli",
+      "target": "Chen Chen",
+      "weight": 1
+    },
+    {
+      "source": "R. Farinelli",
+      "target": "X. Ai",
+      "weight": 10
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Hui Li",
+      "weight": 3
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Yan Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Lei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Yang Li",
+      "weight": 2
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Chao Chen",
+      "weight": 1
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Hao Wang",
+      "weight": 2
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Wei Li",
+      "weight": 2
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Wei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Jing Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Yu Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Yang Yang",
+      "weight": 2
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Jing Li",
+      "weight": 1
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yu Zhang",
+      "target": "Wei Liu",
+      "weight": 1
+    },
+    {
+      "source": "Jun Li",
+      "target": "Jing Li",
+      "weight": 1
+    },
+    {
+      "source": "Jun Li",
+      "target": "Rui Wang",
+      "weight": 3
+    },
+    {
+      "source": "Jun Li",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Li",
+      "target": "Yan Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Li",
+      "target": "Hui Li",
+      "weight": 1
+    },
+    {
+      "source": "Jun Li",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Li",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Li",
+      "target": "Wei Wang",
+      "weight": 2
+    },
+    {
+      "source": "Jun Li",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Li",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Lei Zhang",
+      "target": "Yan Li",
+      "weight": 2
+    },
+    {
+      "source": "Lei Zhang",
+      "target": "Wei Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Lei Zhang",
+      "target": "Wei Liu",
+      "weight": 1
+    },
+    {
+      "source": "Lei Zhang",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Lei Zhang",
+      "target": "Wei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Lei Zhang",
+      "target": "Lei Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Lei Zhang",
+      "target": "Lei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Lei Zhang",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Lei Zhang",
+      "target": "Hui Li",
+      "weight": 1
+    },
+    {
+      "source": "Wei Li",
+      "target": "Lei Wang",
+      "weight": 3
+    },
+    {
+      "source": "Wei Li",
+      "target": "Yu Wang",
+      "weight": 2
+    },
+    {
+      "source": "Wei Li",
+      "target": "Chen Chen",
+      "weight": 1
+    },
+    {
+      "source": "Wei Li",
+      "target": "Yang Yang",
+      "weight": 4
+    },
+    {
+      "source": "Wei Li",
+      "target": "Yu Chen",
+      "weight": 1
+    },
+    {
+      "source": "Wei Li",
+      "target": "Hao Wang",
+      "weight": 6
+    },
+    {
+      "source": "Wei Li",
+      "target": "Hui Li",
+      "weight": 3
+    },
+    {
+      "source": "Wei Li",
+      "target": "Jing Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Wei Li",
+      "target": "Wei Li",
+      "weight": 1
+    },
+    {
+      "source": "Wei Li",
+      "target": "Wei Liu",
+      "weight": 4
+    },
+    {
+      "source": "Wei Li",
+      "target": "Li Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Li",
+      "target": "Jing Wang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Li",
+      "target": "Yan Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Li",
+      "target": "Yan Li",
+      "weight": 1
+    },
+    {
+      "source": "Wei Li",
+      "target": "Hao Li",
+      "weight": 1
+    },
+    {
+      "source": "Wei Li",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Li",
+      "target": "Jing Li",
+      "weight": 1
+    },
+    {
+      "source": "Wei Li",
+      "target": "Jun Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jing Li",
+      "target": "Hao Wang",
+      "weight": 14
+    },
+    {
+      "source": "Jing Li",
+      "target": "Jing Wang",
+      "weight": 2
+    },
+    {
+      "source": "Jing Li",
+      "target": "Yang Li",
+      "weight": 2
+    },
+    {
+      "source": "Jing Li",
+      "target": "Jun Zhang",
+      "weight": 3
+    },
+    {
+      "source": "Jing Li",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jing Li",
+      "target": "Yan Li",
+      "weight": 1
+    },
+    {
+      "source": "Jing Li",
+      "target": "Wei Liu",
+      "weight": 1
+    },
+    {
+      "source": "Jing Li",
+      "target": "Hao Li",
+      "weight": 1
+    },
+    {
+      "source": "Jing Li",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jing Li",
+      "target": "Lei Wang",
+      "weight": 4
+    },
+    {
+      "source": "Jing Li",
+      "target": "Li Zhang",
+      "weight": 4
+    },
+    {
+      "source": "Jing Li",
+      "target": "Yu Chen",
+      "weight": 1
+    },
+    {
+      "source": "Jing Li",
+      "target": "Yan Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jing Li",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jing Li",
+      "target": "Hui Li",
+      "weight": 1
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Lei Wang",
+      "weight": 3
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Jun Zhang",
+      "weight": 3
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Yan Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Yan Li",
+      "weight": 3
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Wei Zhang",
+      "weight": 5
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Wei Wang",
+      "weight": 2
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Chen Chen",
+      "weight": 1
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Wei Liu",
+      "weight": 1
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Li Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Hao Li",
+      "weight": 2
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Hao Wang",
+      "weight": 2
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Jing Wang",
+      "weight": 3
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Chao Chen",
+      "weight": 1
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Wang",
+      "target": "Yang Li",
+      "weight": 1
+    },
+    {
+      "source": "Yu Chen",
+      "target": "Hui Li",
+      "weight": 2
+    },
+    {
+      "source": "Yu Chen",
+      "target": "Lei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yu Chen",
+      "target": "Chao Chen",
+      "weight": 4
+    },
+    {
+      "source": "Yu Chen",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yu Chen",
+      "target": "Yu Chen",
+      "weight": 1
+    },
+    {
+      "source": "Yu Chen",
+      "target": "Chen Chen",
+      "weight": 1
+    },
+    {
+      "source": "Yu Chen",
+      "target": "Rui Wang",
+      "weight": 1
+    },
+    {
+      "source": "Chen Chen",
+      "target": "Wei Liu",
+      "weight": 2
+    },
+    {
+      "source": "Chen Chen",
+      "target": "Yang Li",
+      "weight": 1
+    },
+    {
+      "source": "Chen Chen",
+      "target": "P. Adlarson",
+      "weight": 1
+    },
+    {
+      "source": "Chen Chen",
+      "target": "V. Batozskaya",
+      "weight": 1
+    },
+    {
+      "source": "Chen Chen",
+      "target": "Chao Chen",
+      "weight": 1
+    },
+    {
+      "source": "Chen Chen",
+      "target": "Hao Li",
+      "weight": 3
+    },
+    {
+      "source": "Chen Chen",
+      "target": "Yan Li",
+      "weight": 2
+    },
+    {
+      "source": "Chen Chen",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Chen Chen",
+      "target": "Rui Wang",
+      "weight": 1
+    },
+    {
+      "source": "Chen Chen",
+      "target": "Yang Yang",
+      "weight": 4
+    },
+    {
+      "source": "Chen Chen",
+      "target": "Lei Wang",
+      "weight": 2
+    },
+    {
+      "source": "Chen Chen",
+      "target": "Jing Wang",
+      "weight": 2
+    },
+    {
+      "source": "D. Andreou",
+      "target": "P. Adlarson",
+      "weight": 28
+    },
+    {
+      "source": "D. Andreou",
+      "target": "C. Agapopoulou",
+      "weight": 44
+    },
+    {
+      "source": "D. Andreou",
+      "target": "V. Batozskaya",
+      "weight": 2
+    },
+    {
+      "source": "C. Agapopoulou",
+      "target": "P. Adlarson",
+      "weight": 28
+    },
+    {
+      "source": "C. Agapopoulou",
+      "target": "X. Ai",
+      "weight": 12
+    },
+    {
+      "source": "C. Agapopoulou",
+      "target": "V. Batozskaya",
+      "weight": 2
+    },
+    {
+      "source": "Hao Li",
+      "target": "Wei Zhang",
+      "weight": 7
+    },
+    {
+      "source": "Hao Li",
+      "target": "Yan Li",
+      "weight": 2
+    },
+    {
+      "source": "Hao Li",
+      "target": "Yang Li",
+      "weight": 1
+    },
+    {
+      "source": "Hao Li",
+      "target": "Hao Li",
+      "weight": 5
+    },
+    {
+      "source": "Hao Li",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Hao Li",
+      "target": "Wei Liu",
+      "weight": 2
+    },
+    {
+      "source": "Hao Li",
+      "target": "Yan Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Hao Li",
+      "target": "Jun Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Hao Li",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Hao Li",
+      "target": "Hui Li",
+      "weight": 1
+    },
+    {
+      "source": "Hao Li",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "X. Ai",
+      "target": "P. Adlarson",
+      "weight": 10
+    },
+    {
+      "source": "X. Ai",
+      "target": "V. Batozskaya",
+      "weight": 10
+    },
+    {
+      "source": "X. Ai",
+      "target": "Chao Chen",
+      "weight": 9
+    },
+    {
+      "source": "V. Batozskaya",
+      "target": "P. Adlarson",
+      "weight": 48
+    },
+    {
+      "source": "V. Batozskaya",
+      "target": "Chao Chen",
+      "weight": 45
+    },
+    {
+      "source": "Li Zhang",
+      "target": "Yang Li",
+      "weight": 1
+    },
+    {
+      "source": "Li Zhang",
+      "target": "Hui Li",
+      "weight": 1
+    },
+    {
+      "source": "Li Zhang",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Li Zhang",
+      "target": "Li Zhang",
+      "weight": 3
+    },
+    {
+      "source": "Li Zhang",
+      "target": "Rui Wang",
+      "weight": 1
+    },
+    {
+      "source": "Li Zhang",
+      "target": "Yang Yang",
+      "weight": 1
+    },
+    {
+      "source": "Li Zhang",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Li Zhang",
+      "target": "Jing Wang",
+      "weight": 1
+    },
+    {
+      "source": "Li Zhang",
+      "target": "Yan Li",
+      "weight": 1
+    },
+    {
+      "source": "Jing Wang",
+      "target": "Hui Li",
+      "weight": 1
+    },
+    {
+      "source": "Jing Wang",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jing Wang",
+      "target": "Jing Zhang",
+      "weight": 4
+    },
+    {
+      "source": "Jing Wang",
+      "target": "Jing Wang",
+      "weight": 4
+    },
+    {
+      "source": "Jing Wang",
+      "target": "Yang Li",
+      "weight": 1
+    },
+    {
+      "source": "Jing Wang",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jing Wang",
+      "target": "Lei Wang",
+      "weight": 3
+    },
+    {
+      "source": "Jing Wang",
+      "target": "Yan Li",
+      "weight": 2
+    },
+    {
+      "source": "Jing Wang",
+      "target": "Jun Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Jing Wang",
+      "target": "Yang Yang",
+      "weight": 2
+    },
+    {
+      "source": "Jing Wang",
+      "target": "Rui Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jing Wang",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Zhang",
+      "target": "Yan Li",
+      "weight": 1
+    },
+    {
+      "source": "Yan Zhang",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Zhang",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Zhang",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Zhang",
+      "target": "Jun Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Zhang",
+      "target": "Wei Liu",
+      "weight": 1
+    },
+    {
+      "source": "Yang Li",
+      "target": "Yan Li",
+      "weight": 3
+    },
+    {
+      "source": "Yang Li",
+      "target": "Jun Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Li",
+      "target": "Wei Zhang",
+      "weight": 4
+    },
+    {
+      "source": "Yang Li",
+      "target": "Wei Liu",
+      "weight": 6
+    },
+    {
+      "source": "Yang Li",
+      "target": "Yang Yang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Li",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Li",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Li",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Li",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yan Li",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Rui Wang",
+      "target": "Yang Yang",
+      "weight": 6
+    },
+    {
+      "source": "Rui Wang",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Rui Wang",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Rui Wang",
+      "target": "Wei Liu",
+      "weight": 2
+    },
+    {
+      "source": "Rui Wang",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Tao Wang",
+      "target": "Chao Chen",
+      "weight": 1
+    },
+    {
+      "source": "Tao Wang",
+      "target": "Wei Liu",
+      "weight": 2
+    },
+    {
+      "source": "Tao Wang",
+      "target": "Lei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Tao Wang",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Tao Wang",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Tao Wang",
+      "target": "Tao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Tao Wang",
+      "target": "Jun Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Liu",
+      "target": "Jun Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Liu",
+      "target": "Wei Liu",
+      "weight": 1
+    },
+    {
+      "source": "Wei Liu",
+      "target": "Yang Yang",
+      "weight": 3
+    },
+    {
+      "source": "P. Adlarson",
+      "target": "Chao Chen",
+      "weight": 45
+    },
+    {
+      "source": "Hui Li",
+      "target": "Hui Li",
+      "weight": 1
+    },
+    {
+      "source": "Hui Li",
+      "target": "Wei Zhang",
+      "weight": 4
+    },
+    {
+      "source": "Hui Li",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Hui Li",
+      "target": "Chao Chen",
+      "weight": 1
+    },
+    {
+      "source": "Hui Li",
+      "target": "Yu Wang",
+      "weight": 2
+    },
+    {
+      "source": "Hui Li",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Hao Wang",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Hao Wang",
+      "target": "Lei Wang",
+      "weight": 2
+    },
+    {
+      "source": "Hao Wang",
+      "target": "Hao Wang",
+      "weight": 1
+    },
+    {
+      "source": "Hao Wang",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Hao Wang",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Zhang",
+      "target": "Wei Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Jun Zhang",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Jun Zhang",
+      "target": "Jing Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Jun Zhang",
+      "target": "Lei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Yang",
+      "target": "Wei Zhang",
+      "weight": 11
+    },
+    {
+      "source": "Yang Yang",
+      "target": "Yu Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yang Yang",
+      "target": "Lei Wang",
+      "weight": 6
+    },
+    {
+      "source": "Yang Yang",
+      "target": "Yang Yang",
+      "weight": 1
+    },
+    {
+      "source": "Chao Chen",
+      "target": "Chao Chen",
+      "weight": 2
+    },
+    {
+      "source": "Chao Chen",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Yu Wang",
+      "target": "Lei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Yu Wang",
+      "target": "Wei Zhang",
+      "weight": 2
+    },
+    {
+      "source": "Yu Wang",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Lei Wang",
+      "target": "Jing Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Lei Wang",
+      "target": "Lei Wang",
+      "weight": 1
+    },
+    {
+      "source": "Lei Wang",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Jing Zhang",
+      "target": "Wei Zhang",
+      "weight": 1
+    },
+    {
+      "source": "Wei Zhang",
+      "target": "Wei Zhang",
+      "weight": 1
+    }
+  ],
+  "title": "Top Authors Co-authorship Network",
+  "author_fields": {
+    "Jun Chen": "Engineering",
+    "Hui Wang": "Medicine",
+    "Fan Yang": "Engineering",
+    "Yang Liu": "Medicine",
+    "Jun Wang": "Medicine",
+    "Ying Wang": "Medicine",
+    "Li Li": "Medicine",
+    "P. Albicocco": "Physics and Astronomy",
+    "Yan Wang": "Medicine",
+    "Yang Gao": "Physics and Astronomy",
+    "Xin Wang": "Physics and Astronomy",
+    "Jian Wang": "Engineering",
+    "Wei Chen": "Engineering",
+    "Xin Li": "Engineering",
+    "Li Wang": "Medicine",
+    "B. Ali": "Physics and Astronomy",
+    "Hui Zhang": "Medicine",
+    "Qi Zhang": "Medicine",
+    "R. Farinelli": "Physics and Astronomy",
+    "Yu Zhang": "Medicine",
+    "Jun Li": "Medicine",
+    "Lei Zhang": "Medicine",
+    "Wei Li": "Engineering",
+    "Jing Li": "Medicine",
+    "Wei Wang": "Medicine",
+    "Yu Chen": "Medicine",
+    "Chen Chen": "Computer Science",
+    "D. Andreou": "Physics and Astronomy",
+    "C. Agapopoulou": "Physics and Astronomy",
+    "Hao Li": "Medicine",
+    "X. Ai": "Physics and Astronomy",
+    "V. Batozskaya": "Physics and Astronomy",
+    "Li Zhang": "Medicine",
+    "Jing Wang": "Medicine",
+    "Yan Zhang": "Medicine",
+    "Yang Li": "Biochemistry, Genetics and Molecular Biology",
+    "Yan Li": "Medicine",
+    "Rui Wang": "Medicine",
+    "Tao Wang": "Medicine",
+    "Wei Liu": "Medicine",
+    "P. Adlarson": "Physics and Astronomy",
+    "Hui Li": "Medicine",
+    "Hao Wang": "Medicine",
+    "Jun Zhang": "Medicine",
+    "Yang Yang": "Engineering",
+    "Chao Chen": "Physics and Astronomy",
+    "Yu Wang": "Biochemistry, Genetics and Molecular Biology",
+    "Lei Wang": "Engineering",
+    "Jing Zhang": "Medicine",
+    "Wei Zhang": "Medicine"
+  },
+  "field_colors": {
+    "Engineering": [
+      0.5529411764705883,
+      0.8274509803921568,
+      0.7803921568627451,
+      1.0
+    ],
+    "Physics and Astronomy": [
+      0.5529411764705883,
+      0.8274509803921568,
+      0.7803921568627451,
+      1.0
+    ],
+    "Medicine": [
+      1.0,
+      1.0,
+      0.7019607843137254,
+      1.0
+    ],
+    "Biochemistry, Genetics and Molecular Biology": [
+      1.0,
+      1.0,
+      0.7019607843137254,
+      1.0
+    ],
+    "Computer Science": [
+      0.7450980392156863,
+      0.7294117647058823,
+      0.8549019607843137,
+      1.0
+    ],
+    "Materials Science": [
+      0.984313725490196,
+      0.5019607843137255,
+      0.4470588235294118,
+      1.0
+    ],
+    "Agricultural and Biological Sciences": [
+      0.984313725490196,
+      0.5019607843137255,
+      0.4470588235294118,
+      1.0
+    ],
+    "Environmental Science": [
+      0.5019607843137255,
+      0.6941176470588235,
+      0.8274509803921568,
+      1.0
+    ],
+    "Energy": [
+      0.9921568627450981,
+      0.7058823529411765,
+      0.3843137254901961,
+      1.0
+    ],
+    "Decision Sciences": [
+      0.9921568627450981,
+      0.7058823529411765,
+      0.3843137254901961,
+      1.0
+    ],
+    "Psychology": [
+      0.7019607843137254,
+      0.8705882352941177,
+      0.4117647058823529,
+      1.0
+    ],
+    "Neuroscience": [
+      0.7019607843137254,
+      0.8705882352941177,
+      0.4117647058823529,
+      1.0
+    ],
+    "Chemistry": [
+      0.9882352941176471,
+      0.803921568627451,
+      0.8980392156862745,
+      1.0
+    ],
+    "Dentistry": [
+      0.8509803921568627,
+      0.8509803921568627,
+      0.8509803921568627,
+      1.0
+    ],
+    "Social Sciences": [
+      0.8509803921568627,
+      0.8509803921568627,
+      0.8509803921568627,
+      1.0
+    ],
+    "Immunology and Microbiology": [
+      0.7372549019607844,
+      0.5019607843137255,
+      0.7411764705882353,
+      1.0
+    ],
+    "Earth and Planetary Sciences": [
+      0.8,
+      0.9215686274509803,
+      0.7725490196078432,
+      1.0
+    ],
+    "Mathematics": [
+      0.8,
+      0.9215686274509803,
+      0.7725490196078432,
+      1.0
+    ],
+    "Business, Management and Accounting": [
+      1.0,
+      0.9294117647058824,
+      0.43529411764705883,
+      1.0
+    ],
+    "Economics, Econometrics and Finance": [
+      1.0,
+      0.9294117647058824,
+      0.43529411764705883,
+      1.0
+    ]
+  },
+  "positions": {
+    "Jun Chen": [
+      -0.4570971847718432,
+      0.29172551588369733
+    ],
+    "Hui Wang": [
+      -0.429895843536916,
+      -0.08991845764964906
+    ],
+    "Fan Yang": [
+      0.5020262174470971,
+      -0.2763466867624776
+    ],
+    "Yang Liu": [
+      -0.2837282711743743,
+      -0.24682489629994553
+    ],
+    "Jun Wang": [
+      -0.4084150952767441,
+      0.07193338360049827
+    ],
+    "Ying Wang": [
+      -0.3692541429166363,
+      -0.48965697562406785
+    ],
+    "Li Li": [
+      -0.22658640024072535,
+      0.23807101139325335
+    ],
+    "P. Albicocco": [
+      0.7248784847483492,
+      0.6930229269789998
+    ],
+    "Yan Wang": [
+      0.16678501656080255,
+      -0.30768742044715675
+    ],
+    "Yang Gao": [
+      0.6052183034476702,
+      0.8098648588566265
+    ],
+    "Xin Wang": [
+      0.29238795181883476,
+      -0.04619947757421114
+    ],
+    "Jian Wang": [
+      0.31422860416216425,
+      -0.41271652050000446
+    ],
+    "Wei Chen": [
+      -0.4769254238796174,
+      -0.021857042222983576
+    ],
+    "Xin Li": [
+      -0.4829254012751118,
+      -0.5165955409690545
+    ],
+    "Li Wang": [
+      0.06682037938874207,
+      -0.6516974871498065
+    ],
+    "B. Ali": [
+      0.8703575989250283,
+      0.5731298279607643
+    ],
+    "Hui Zhang": [
+      0.2055050269440039,
+      -0.649678787058644
+    ],
+    "Qi Zhang": [
+      0.3772187806342204,
+      0.17253469834972482
+    ],
+    "R. Farinelli": [
+      0.6025333720761266,
+      0.9698953272134053
+    ],
+    "Yu Zhang": [
+      0.016974239612189707,
+      0.2292230863401232
+    ],
+    "Jun Li": [
+      -0.2902735221995169,
+      -0.7051981955791898
+    ],
+    "Lei Zhang": [
+      -0.061367202597062985,
+      -0.6056996505355075
+    ],
+    "Wei Li": [
+      -0.21841717312874348,
+      -0.03159493101900953
+    ],
+    "Jing Li": [
+      -0.05056173870017015,
+      -0.04690382083097518
+    ],
+    "Wei Wang": [
+      -0.16316917746426784,
+      -0.16547196918825105
+    ],
+    "Yu Chen": [
+      -0.2803265827674924,
+      0.4729006161179947
+    ],
+    "Chen Chen": [
+      0.17392453180444792,
+      0.14329121943142223
+    ],
+    "D. Andreou": [
+      0.4835912314588188,
+      1.0
+    ],
+    "C. Agapopoulou": [
+      0.6715467548919936,
+      0.9008951821989074
+    ],
+    "Hao Li": [
+      -0.2690322744398266,
+      -0.5679978634450804
+    ],
+    "X. Ai": [
+      0.7667386369573155,
+      0.6168977752232819
+    ],
+    "V. Batozskaya": [
+      0.7634747849187283,
+      0.8545214490567342
+    ],
+    "Li Zhang": [
+      -0.7225296575904677,
+      -0.4037637463854444
+    ],
+    "Jing Wang": [
+      -0.4148188630296682,
+      -0.23057441811277424
+    ],
+    "Yan Zhang": [
+      -0.6681674595207999,
+      -0.5322873034993681
+    ],
+    "Yang Li": [
+      -0.219945626716449,
+      -0.41682381954443826
+    ],
+    "Yan Li": [
+      -0.11896197548319605,
+      -0.5326819395540029
+    ],
+    "Rui Wang": [
+      0.15186937545394372,
+      -0.7464907636051024
+    ],
+    "Tao Wang": [
+      0.05814949266820632,
+      -0.36406151890657856
+    ],
+    "Wei Liu": [
+      -0.48336166267103664,
+      -0.3516563887363782
+    ],
+    "P. Adlarson": [
+      0.7181362780219389,
+      0.9679882079976126
+    ],
+    "Hui Li": [
+      -0.5132736202167003,
+      0.20189743190030318
+    ],
+    "Hao Wang": [
+      -0.09299746204030736,
+      0.20746765088492788
+    ],
+    "Jun Zhang": [
+      0.26957237342508333,
+      -0.1615644238730224
+    ],
+    "Yang Yang": [
+      0.02688069497220916,
+      -0.23216373828136436
+    ],
+    "Chao Chen": [
+      0.5079412782280684,
+      0.741497121718603
+    ],
+    "Yu Wang": [
+      -0.7310267763862418,
+      -0.22639025966902906
+    ],
+    "Lei Wang": [
+      -0.2082876745029146,
+      0.12807298415312215
+    ],
+    "Jing Zhang": [
+      -0.6178171841873257,
+      -0.05077108092858616
+    ],
+    "Wei Zhang": [
+      -0.07759601185182614,
+      -0.20355515130789822
+    ]
+  }
+}
